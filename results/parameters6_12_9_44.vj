@@ -1,0 +1,7861 @@
+False Positive Rate: 0.000774289
+
+Layer: 1
+	count of the previous-classifier: 0
+	number of Classifier: 10
+	FALSE_POSITIVE_RATE: 0.559
+	DETECTION_RATE: 1
+	bias: 0.667
+	1: 
+		feature index: 179385
+		error: 0.1203525729
+		threshold: -16.73242513
+		polarity: -1
+		alpha: 0.9945478168
+	2: 
+		feature index: 345787
+		error: 0.2097115176
+		threshold: 32.33123935
+		polarity: 1
+		alpha: 0.6633325931
+	3: 
+		feature index: 55632
+		error: 0.2895825809
+		threshold: 6.772153768
+		polarity: 1
+		alpha: 0.4487061009
+	4: 
+		feature index: 161815
+		error: 0.3026600736
+		threshold: -3.385347953
+		polarity: -1
+		alpha: 0.4173313425
+	5: 
+		feature index: 151931
+		error: 0.3063616464
+		threshold: 8.533037475
+		polarity: 1
+		alpha: 0.4085922326
+	6: 
+		feature index: 142809
+		error: 0.3280249188
+		threshold: 6.953820378
+		polarity: 1
+		alpha: 0.3585658404
+	7: 
+		feature index: 87273
+		error: 0.3245961283
+		threshold: -0.2128813757
+		polarity: -1
+		alpha: 0.3663645565
+	8: 
+		feature index: 216232
+		error: 0.3381144272
+		threshold: 3.043291716
+		polarity: 1
+		alpha: 0.335854155
+	9: 
+		feature index: 97942
+		error: 0.3410680054
+		threshold: -3.273253614
+		polarity: -1
+		alpha: 0.3292692239
+	10: 
+		feature index: 41053
+		error: 0.3390121387
+		threshold: 7.562348279
+		polarity: 1
+		alpha: 0.3338497808
+
+Layer: 2
+	count of the previous-classifier: 837
+	number of Classifier: 25
+	FALSE_POSITIVE_RATE: 0.734
+	DETECTION_RATE: 1
+	bias: 0.399
+	1: 
+		feature index: 179385
+		error: 0.1545044007
+		threshold: -18.3864009
+		polarity: -1
+		alpha: 0.8498501922
+	2: 
+		feature index: 345745
+		error: 0.2468224432
+		threshold: 38.74644905
+		polarity: 1
+		alpha: 0.5578158872
+	3: 
+		feature index: 151930
+		error: 0.3141468029
+		threshold: 8.644006301
+		polarity: 1
+		alpha: 0.3904016024
+	4: 
+		feature index: 216176
+		error: 0.3190236807
+		threshold: 4.994087631
+		polarity: 1
+		alpha: 0.3791310989
+	5: 
+		feature index: 9064
+		error: 0.3347361394
+		threshold: 5.070394364
+		polarity: 1
+		alpha: 0.3434205835
+	6: 
+		feature index: 218420
+		error: 0.3382777815
+		threshold: -1.689665705
+		polarity: -1
+		alpha: 0.3354892308
+	7: 
+		feature index: 2281
+		error: 0.3373183219
+		threshold: -0.7824381162
+		polarity: 1
+		alpha: 0.3376338458
+	8: 
+		feature index: 103740
+		error: 0.3476432466
+		threshold: -0.2418521675
+		polarity: 1
+		alpha: 0.3147073897
+	9: 
+		feature index: 3486
+		error: 0.3511199144
+		threshold: -9.410727639
+		polarity: -1
+		alpha: 0.307060065
+	10: 
+		feature index: 103077
+		error: 0.3623253869
+		threshold: -0.2326760502
+		polarity: 1
+		alpha: 0.2826427378
+	11: 
+		feature index: 158750
+		error: 0.3629924916
+		threshold: -9.032351361
+		polarity: -1
+		alpha: 0.2811996465
+	12: 
+		feature index: 98005
+		error: 0.358029316
+		threshold: -1.707302404
+		polarity: -1
+		alpha: 0.2919638839
+	13: 
+		feature index: 38008
+		error: 0.3590121618
+		threshold: -1.08894336
+		polarity: -1
+		alpha: 0.2898271095
+	14: 
+		feature index: 112104
+		error: 0.3636377517
+		threshold: -0.8473733912
+		polarity: 1
+		alpha: 0.2798048947
+	15: 
+		feature index: 153308
+		error: 0.3681270009
+		threshold: -3.058036107
+		polarity: -1
+		alpha: 0.2701302166
+	16: 
+		feature index: 42602
+		error: 0.3681106507
+		threshold: 0.682934639
+		polarity: -1
+		alpha: 0.2701653623
+	17: 
+		feature index: 23603
+		error: 0.3702123949
+		threshold: -2.493544849
+		polarity: -1
+		alpha: 0.2656528733
+	18: 
+		feature index: 3306
+		error: 0.3622920074
+		threshold: 31.79630009
+		polarity: 1
+		alpha: 0.2827149749
+	19: 
+		feature index: 97168
+		error: 0.3531958159
+		threshold: 1.12504873
+		polarity: -1
+		alpha: 0.3025104871
+	20: 
+		feature index: 199003
+		error: 0.3632573769
+		threshold: 7.977622783
+		polarity: 1
+		alpha: 0.2806269592
+	21: 
+		feature index: 109358
+		error: 0.3672621875
+		threshold: 14.40540477
+		polarity: -1
+		alpha: 0.2719900688
+	22: 
+		feature index: 187385
+		error: 0.3701293177
+		threshold: -3.310424438
+		polarity: -1
+		alpha: 0.2658310402
+	23: 
+		feature index: 75335
+		error: 0.3708580794
+		threshold: 5.908413752
+		polarity: 1
+		alpha: 0.264268703
+	24: 
+		feature index: 341764
+		error: 0.3687904119
+		threshold: 2.671126059
+		polarity: 1
+		alpha: 0.2687047332
+	25: 
+		feature index: 198559
+		error: 0.3705281023
+		threshold: 1.047177566
+		polarity: -1
+		alpha: 0.2649759593
+
+Layer: 3
+	count of the previous-classifier: 658
+	number of Classifier: 35
+	FALSE_POSITIVE_RATE: 0.719
+	DETECTION_RATE: 1
+	bias: 0.206
+	1: 
+		feature index: 179385
+		error: 0.168801772
+		threshold: -19.11519137
+		polarity: -1
+		alpha: 0.7970716143
+	2: 
+		feature index: 165780
+		error: 0.2442895974
+		threshold: -14.38321255
+		polarity: -1
+		alpha: 0.5646519207
+	3: 
+		feature index: 161773
+		error: 0.3131014015
+		threshold: -7.142750419
+		polarity: -1
+		alpha: 0.3928297883
+	4: 
+		feature index: 312131
+		error: 0.3303906777
+		threshold: 10.04202461
+		polarity: 1
+		alpha: 0.3532093075
+	5: 
+		feature index: 151930
+		error: 0.3270984941
+		threshold: 8.582142721
+		polarity: 1
+		alpha: 0.3606688187
+	6: 
+		feature index: 144933
+		error: 0.3439310373
+		threshold: -12.5518671
+		polarity: -1
+		alpha: 0.3229123725
+	7: 
+		feature index: 75335
+		error: 0.3506598104
+		threshold: 6.154814635
+		polarity: 1
+		alpha: 0.3080701011
+	8: 
+		feature index: 30099
+		error: 0.3674504633
+		threshold: -2.311711754
+		polarity: -1
+		alpha: 0.2715850103
+	9: 
+		feature index: 60495
+		error: 0.3666074121
+		threshold: -2.063553936
+		polarity: -1
+		alpha: 0.2733994391
+	10: 
+		feature index: 100817
+		error: 0.361750986
+		threshold: -0.8265460819
+		polarity: 1
+		alpha: 0.2838862102
+	11: 
+		feature index: 3422
+		error: 0.3606232148
+		threshold: -6.737045195
+		polarity: -1
+		alpha: 0.2863301209
+	12: 
+		feature index: 218435
+		error: 0.3611573914
+		threshold: -2.58170684
+		polarity: -1
+		alpha: 0.2851721324
+	13: 
+		feature index: 3306
+		error: 0.3550765478
+		threshold: 31.39477613
+		polarity: 1
+		alpha: 0.2983991186
+	14: 
+		feature index: 217614
+		error: 0.3607948144
+		threshold: 1.470624794
+		polarity: -1
+		alpha: 0.2859580457
+	15: 
+		feature index: 41582
+		error: 0.3662746815
+		threshold: -0.6998888093
+		polarity: 1
+		alpha: 0.2741160305
+	16: 
+		feature index: 214322
+		error: 0.3728049384
+		threshold: 0.8602898564
+		polarity: -1
+		alpha: 0.2601011329
+	17: 
+		feature index: 148151
+		error: 0.3724776807
+		threshold: 16.19183091
+		polarity: -1
+		alpha: 0.2608010602
+	18: 
+		feature index: 199043
+		error: 0.3760477733
+		threshold: -0.5433107312
+		polarity: 1
+		alpha: 0.2531788069
+	19: 
+		feature index: 161497
+		error: 0.3756657762
+		threshold: 1.288145778
+		polarity: 1
+		alpha: 0.2539929926
+	20: 
+		feature index: 113687
+		error: 0.377899414
+		threshold: 1.164365869
+		polarity: -1
+		alpha: 0.2492368669
+	21: 
+		feature index: 42115
+		error: 0.3790914619
+		threshold: 0.8384645062
+		polarity: -1
+		alpha: 0.2467031445
+	22: 
+		feature index: 216202
+		error: 0.3743249325
+		threshold: 4.152215929
+		polarity: 1
+		alpha: 0.2568534756
+	23: 
+		feature index: 1944
+		error: 0.3727740695
+		threshold: -0.7671228482
+		polarity: 1
+		alpha: 0.2601671435
+	24: 
+		feature index: 142641
+		error: 0.3770260817
+		threshold: -2.411765948
+		polarity: 1
+		alpha: 0.2510951431
+	25: 
+		feature index: 180489
+		error: 0.3723782198
+		threshold: -0.9964465536
+		polarity: 1
+		alpha: 0.2610138334
+	26: 
+		feature index: 215874
+		error: 0.3717272698
+		threshold: 2.411648958
+		polarity: -1
+		alpha: 0.2624069582
+	27: 
+		feature index: 161143
+		error: 0.3727503039
+		threshold: 1.146036534
+		polarity: 1
+		alpha: 0.2602179658
+	28: 
+		feature index: 97788
+		error: 0.3785689556
+		threshold: -3.301147328
+		polarity: -1
+		alpha: 0.2478133586
+	29: 
+		feature index: 43164
+		error: 0.3766060334
+		threshold: -0.3180121426
+		polarity: 1
+		alpha: 0.251989526
+	30: 
+		feature index: 179771
+		error: 0.381619604
+		threshold: 1.637169354
+		polarity: -1
+		alpha: 0.2413397421
+	31: 
+		feature index: 25728
+		error: 0.3790047035
+		threshold: 0.6805168562
+		polarity: -1
+		alpha: 0.2468874463
+	32: 
+		feature index: 37999
+		error: 0.3721051625
+		threshold: 1.153251319
+		polarity: 1
+		alpha: 0.2615980934
+	33: 
+		feature index: 105145
+		error: 0.3822066338
+		threshold: -0.8398374109
+		polarity: 1
+		alpha: 0.240096327
+	34: 
+		feature index: 208020
+		error: 0.381458429
+		threshold: 2.41411534
+		polarity: -1
+		alpha: 0.2416812623
+	35: 
+		feature index: 33723
+		error: 0.3832260708
+		threshold: -13.22030921
+		polarity: -1
+		alpha: 0.2379387377
+
+Layer: 4
+	count of the previous-classifier: 1066
+	number of Classifier: 50
+	FALSE_POSITIVE_RATE: 0.566
+	DETECTION_RATE: 0.998
+	bias: 0.112
+	1: 
+		feature index: 179385
+		error: 0.1804113979
+		threshold: -20.13088712
+		polarity: -1
+		alpha: 0.7567813612
+	2: 
+		feature index: 165744
+		error: 0.2596282362
+		threshold: -14.81452685
+		polarity: -1
+		alpha: 0.5239508484
+	3: 
+		feature index: 161773
+		error: 0.3152927537
+		threshold: -6.907380402
+		polarity: -1
+		alpha: 0.3877448926
+	4: 
+		feature index: 312131
+		error: 0.3201479585
+		threshold: 13.0971682
+		polarity: 1
+		alpha: 0.3765459647
+	5: 
+		feature index: 151913
+		error: 0.32685099
+		threshold: 16.63483757
+		polarity: 1
+		alpha: 0.3612311688
+	6: 
+		feature index: 30
+		error: 0.3315375289
+		threshold: -9.036144689
+		polarity: -1
+		alpha: 0.3506196218
+	7: 
+		feature index: 75445
+		error: 0.3544566934
+		threshold: 2.523214515
+		polarity: 1
+		alpha: 0.299753061
+	8: 
+		feature index: 87094
+		error: 0.3584612587
+		threshold: 1.519981419
+		polarity: -1
+		alpha: 0.2910244924
+	9: 
+		feature index: 103740
+		error: 0.3632206096
+		threshold: -0.2444423819
+		polarity: 1
+		alpha: 0.2807064399
+	10: 
+		feature index: 198814
+		error: 0.3661508518
+		threshold: -1.187970747
+		polarity: 1
+		alpha: 0.2743827888
+	11: 
+		feature index: 316659
+		error: 0.3666326844
+		threshold: 3.351345271
+		polarity: -1
+		alpha: 0.2733450221
+	12: 
+		feature index: 218511
+		error: 0.3760666904
+		threshold: 0.3948166505
+		polarity: -1
+		alpha: 0.2531384957
+	13: 
+		feature index: 179275
+		error: 0.3747693893
+		threshold: 7.537771589
+		polarity: 1
+		alpha: 0.2559048418
+	14: 
+		feature index: 156299
+		error: 0.3720590562
+		threshold: -7.6056452
+		polarity: -1
+		alpha: 0.2616967644
+	15: 
+		feature index: 216230
+		error: 0.3709308617
+		threshold: 2.966510327
+		polarity: 1
+		alpha: 0.2641127399
+	16: 
+		feature index: 6733
+		error: 0.3737037469
+		threshold: -5.611968482
+		polarity: -1
+		alpha: 0.258180072
+	17: 
+		feature index: 211940
+		error: 0.3791722052
+		threshold: 0.9413500211
+		polarity: -1
+		alpha: 0.2465316355
+	18: 
+		feature index: 121464
+		error: 0.375476864
+		threshold: 43.6238721
+		polarity: 1
+		alpha: 0.2543957602
+	19: 
+		feature index: 214322
+		error: 0.3775743911
+		threshold: 0.7798590278
+		polarity: -1
+		alpha: 0.2499282527
+	20: 
+		feature index: 302520
+		error: 0.3782356549
+		threshold: 0.1850324973
+		polarity: -1
+		alpha: 0.2485218639
+	21: 
+		feature index: 198814
+		error: 0.3786449199
+		threshold: 1.006198832
+		polarity: -1
+		alpha: 0.2476519136
+	22: 
+		feature index: 208036
+		error: 0.3802606579
+		threshold: 1.95727014
+		polarity: -1
+		alpha: 0.2442210071
+	23: 
+		feature index: 6771
+		error: 0.3733604353
+		threshold: -2.278689699
+		polarity: -1
+		alpha: 0.2589136254
+	24: 
+		feature index: 99048
+		error: 0.3776827298
+		threshold: -0.4899207137
+		polarity: -1
+		alpha: 0.2496977698
+	25: 
+		feature index: 149176
+		error: 0.3726456183
+		threshold: -0.6041893014
+		polarity: -1
+		alpha: 0.2604418499
+	26: 
+		feature index: 25728
+		error: 0.3781151017
+		threshold: 0.5802822145
+		polarity: -1
+		alpha: 0.2487781867
+	27: 
+		feature index: 198288
+		error: 0.3831976691
+		threshold: 1.198444823
+		polarity: -1
+		alpha: 0.237998819
+	28: 
+		feature index: 12828
+		error: 0.3876338736
+		threshold: 31.37610657
+		polarity: 1
+		alpha: 0.22863454
+	29: 
+		feature index: 199003
+		error: 0.3713875296
+		threshold: 9.382475234
+		polarity: 1
+		alpha: 0.2631344455
+	30: 
+		feature index: 189733
+		error: 0.3833354801
+		threshold: -1.689773295
+		polarity: -1
+		alpha: 0.2377073077
+	31: 
+		feature index: 218840
+		error: 0.3821262126
+		threshold: -1.791203004
+		polarity: 1
+		alpha: 0.2402666279
+	32: 
+		feature index: 108724
+		error: 0.3864891388
+		threshold: 1.265796283
+		polarity: 1
+		alpha: 0.2310471008
+	33: 
+		feature index: 39837
+		error: 0.3803039498
+		threshold: -1.121529111
+		polarity: 1
+		alpha: 0.2441291577
+	34: 
+		feature index: 180417
+		error: 0.3831466657
+		threshold: 0.7721604554
+		polarity: -1
+		alpha: 0.2381067165
+	35: 
+		feature index: 180417
+		error: 0.3827969658
+		threshold: -0.895127906
+		polarity: 1
+		alpha: 0.2388466516
+	36: 
+		feature index: 94672
+		error: 0.3834522145
+		threshold: 1.262084449
+		polarity: -1
+		alpha: 0.2374604106
+	37: 
+		feature index: 36682
+		error: 0.3829090218
+		threshold: -1.557032692
+		polarity: -1
+		alpha: 0.2386095228
+	38: 
+		feature index: 70812
+		error: 0.3834428178
+		threshold: -0.9956712254
+		polarity: 1
+		alpha: 0.2374802838
+	39: 
+		feature index: 149682
+		error: 0.38348601
+		threshold: 0.5594020191
+		polarity: 1
+		alpha: 0.2373889373
+	40: 
+		feature index: 206358
+		error: 0.3821721531
+		threshold: -15.81970921
+		polarity: 1
+		alpha: 0.2401693421
+	41: 
+		feature index: 121331
+		error: 0.3786114993
+		threshold: 46.57104239
+		polarity: 1
+		alpha: 0.2477229399
+	42: 
+		feature index: 75863
+		error: 0.3863613374
+		threshold: 2.387438807
+		polarity: 1
+		alpha: 0.2313166094
+	43: 
+		feature index: 162081
+		error: 0.3755294637
+		threshold: -2.815278047
+		polarity: 1
+		alpha: 0.2542836077
+	44: 
+		feature index: 2858
+		error: 0.3803015485
+		threshold: 1.044623095
+		polarity: -1
+		alpha: 0.2441342522
+	45: 
+		feature index: 216420
+		error: 0.3883895906
+		threshold: -2.103344911
+		polarity: 1
+		alpha: 0.2270432793
+	46: 
+		feature index: 179890
+		error: 0.3867233979
+		threshold: -1.419112965
+		polarity: 1
+		alpha: 0.2305531789
+	47: 
+		feature index: 159836
+		error: 0.3883761884
+		threshold: 0.5641902626
+		polarity: 1
+		alpha: 0.2270714895
+	48: 
+		feature index: 121740
+		error: 0.3882582396
+		threshold: 3.659090234
+		polarity: -1
+		alpha: 0.2273197745
+	49: 
+		feature index: 98613
+		error: 0.3853149742
+		threshold: 37.22927974
+		polarity: -1
+		alpha: 0.2335244343
+	50: 
+		feature index: 208048
+		error: 0.3798655303
+		threshold: 1.695770277
+		polarity: -1
+		alpha: 0.2450595093
+
+Layer: 5
+	count of the previous-classifier: 2634
+	number of Classifier: 50
+	FALSE_POSITIVE_RATE: 0.652
+	DETECTION_RATE: 0.998
+	bias: 0.185
+	1: 
+		feature index: 179385
+		error: 0.2180298598
+		threshold: -21.09997
+		polarity: -1
+		alpha: 0.6385922654
+	2: 
+		feature index: 244006
+		error: 0.2957414953
+		threshold: 28.33238608
+		polarity: 1
+		alpha: 0.4338298684
+	3: 
+		feature index: 113145
+		error: 0.3184100149
+		threshold: 5.855116598
+		polarity: 1
+		alpha: 0.3805441875
+	4: 
+		feature index: 313152
+		error: 0.3521305138
+		threshold: 2.492617144
+		polarity: 1
+		alpha: 0.3048436907
+	5: 
+		feature index: 151931
+		error: 0.3504972168
+		threshold: 10.83333808
+		polarity: 1
+		alpha: 0.3084271776
+	6: 
+		feature index: 32
+		error: 0.3580825711
+		threshold: -11.87272327
+		polarity: -1
+		alpha: 0.2918480373
+	7: 
+		feature index: 60495
+		error: 0.3543761457
+		threshold: -2.200070744
+		polarity: -1
+		alpha: 0.299929079
+	8: 
+		feature index: 216232
+		error: 0.3648140899
+		threshold: 4.234701139
+		polarity: 1
+		alpha: 0.2772649235
+	9: 
+		feature index: 199003
+		error: 0.3699153585
+		threshold: 8.706431015
+		polarity: 1
+		alpha: 0.2662899717
+	10: 
+		feature index: 161236
+		error: 0.3691648155
+		threshold: -0.6312188396
+		polarity: 1
+		alpha: 0.2679007162
+	11: 
+		feature index: 198957
+		error: 0.3758999559
+		threshold: -0.8414623531
+		polarity: 1
+		alpha: 0.2534938246
+	12: 
+		feature index: 105255
+		error: 0.3776957388
+		threshold: -0.9765591111
+		polarity: 1
+		alpha: 0.2496700957
+	13: 
+		feature index: 198957
+		error: 0.3820123745
+		threshold: 0.7488729084
+		polarity: -1
+		alpha: 0.2405077159
+	14: 
+		feature index: 104751
+		error: 0.383244716
+		threshold: -1.258836061
+		polarity: 1
+		alpha: 0.2378992962
+	15: 
+		feature index: 5719
+		error: 0.3798671234
+		threshold: 2.404145373
+		polarity: 1
+		alpha: 0.2450561279
+	16: 
+		feature index: 146602
+		error: 0.3819263975
+		threshold: 23.18731111
+		polarity: -1
+		alpha: 0.2406898175
+	17: 
+		feature index: 149678
+		error: 0.3826276029
+		threshold: -18.38837949
+		polarity: 1
+		alpha: 0.2392051015
+	18: 
+		feature index: 162198
+		error: 0.382833653
+		threshold: -2.477921396
+		polarity: -1
+		alpha: 0.2387690125
+	19: 
+		feature index: 215814
+		error: 0.3844107923
+		threshold: -1.703130828
+		polarity: 1
+		alpha: 0.235434059
+	20: 
+		feature index: 35415
+		error: 0.3848457409
+		threshold: -7.677297657
+		polarity: -1
+		alpha: 0.2345152415
+	21: 
+		feature index: 75335
+		error: 0.3830715499
+		threshold: 6.703251768
+		polarity: 1
+		alpha: 0.2382656335
+	22: 
+		feature index: 123548
+		error: 0.3777286511
+		threshold: 33.2754399
+		polarity: 1
+		alpha: 0.2496000831
+	23: 
+		feature index: 161143
+		error: 0.3850762403
+		threshold: 1.22153729
+		polarity: 1
+		alpha: 0.2340284754
+	24: 
+		feature index: 206809
+		error: 0.3835702405
+		threshold: -1.812642997
+		polarity: 1
+		alpha: 0.2372108107
+	25: 
+		feature index: 103620
+		error: 0.3828760244
+		threshold: -0.4712029147
+		polarity: 1
+		alpha: 0.2386793479
+	26: 
+		feature index: 150402
+		error: 0.3881939893
+		threshold: 0.6761207466
+		polarity: 1
+		alpha: 0.2274550347
+	27: 
+		feature index: 155274
+		error: 0.3853112497
+		threshold: -1.307957337
+		polarity: -1
+		alpha: 0.2335322971
+	28: 
+		feature index: 214322
+		error: 0.3857486383
+		threshold: -1.203699035
+		polarity: 1
+		alpha: 0.2326091336
+	29: 
+		feature index: 33953
+		error: 0.3888549631
+		threshold: 2.149501744
+		polarity: 1
+		alpha: 0.2260639394
+	30: 
+		feature index: 113651
+		error: 0.388383123
+		threshold: -1.241541415
+		polarity: 1
+		alpha: 0.2270568928
+	31: 
+		feature index: 181540
+		error: 0.3896057173
+		threshold: -1.541311679
+		polarity: 1
+		alpha: 0.2244849335
+	32: 
+		feature index: 51621
+		error: 0.3906234807
+		threshold: -7.216617246
+		polarity: -1
+		alpha: 0.222346102
+	33: 
+		feature index: 3413
+		error: 0.3812094441
+		threshold: -3.24145708
+		polarity: -1
+		alpha: 0.2422089553
+	34: 
+		feature index: 216260
+		error: 0.3885909294
+		threshold: 3.885853592
+		polarity: 1
+		alpha: 0.2266195251
+	35: 
+		feature index: 6715
+		error: 0.3896311874
+		threshold: 21.22775143
+		polarity: 1
+		alpha: 0.2244313835
+	36: 
+		feature index: 39884
+		error: 0.3913298169
+		threshold: 0.8250637977
+		polarity: -1
+		alpha: 0.2208629119
+	37: 
+		feature index: 112540
+		error: 0.3846046232
+		threshold: -2.313797701
+		polarity: -1
+		alpha: 0.2350245482
+	38: 
+		feature index: 215874
+		error: 0.3940896478
+		threshold: 2.754599195
+		polarity: -1
+		alpha: 0.2150768127
+	39: 
+		feature index: 35417
+		error: 0.3958092212
+		threshold: 8.220241121
+		polarity: 1
+		alpha: 0.2114788382
+	40: 
+		feature index: 108740
+		error: 0.3958509074
+		threshold: 3.207896645
+		polarity: 1
+		alpha: 0.2113916828
+	41: 
+		feature index: 218240
+		error: 0.3907559771
+		threshold: -1.885603248
+		polarity: 1
+		alpha: 0.2220678081
+	42: 
+		feature index: 160679
+		error: 0.3942638819
+		threshold: -1.74732737
+		polarity: -1
+		alpha: 0.2147120032
+	43: 
+		feature index: 198796
+		error: 0.3915934632
+		threshold: 0.9308170948
+		polarity: -1
+		alpha: 0.2203095433
+	44: 
+		feature index: 99048
+		error: 0.3942843373
+		threshold: -0.5562716257
+		polarity: -1
+		alpha: 0.2146691775
+	45: 
+		feature index: 217606
+		error: 0.3907544662
+		threshold: -2.969960447
+		polarity: 1
+		alpha: 0.2220709814
+	46: 
+		feature index: 43196
+		error: 0.3940699514
+		threshold: -0.6211939793
+		polarity: -1
+		alpha: 0.2151180564
+	47: 
+		feature index: 149682
+		error: 0.3952163959
+		threshold: 0.6154695301
+		polarity: 1
+		alpha: 0.2127186312
+	48: 
+		feature index: 198951
+		error: 0.3916223178
+		threshold: -0.8685273536
+		polarity: 1
+		alpha: 0.2202489883
+	49: 
+		feature index: 179892
+		error: 0.3928657807
+		threshold: 1.850369717
+		polarity: -1
+		alpha: 0.2176409285
+	50: 
+		feature index: 200840
+		error: 0.3939939967
+		threshold: 1.572664175
+		polarity: -1
+		alpha: 0.21527711
+
+Layer: 6
+	count of the previous-classifier: 2936
+	number of Classifier: 50
+	FALSE_POSITIVE_RATE: 0.846
+	DETECTION_RATE: 0.998
+	bias: 0.158
+	1: 
+		feature index: 179385
+		error: 0.2360417067
+		threshold: -22.09712347
+		polarity: -1
+		alpha: 0.5872523426
+	2: 
+		feature index: 249080
+		error: 0.2883528361
+		threshold: 7.228564906
+		polarity: 1
+		alpha: 0.4516986882
+	3: 
+		feature index: 161775
+		error: 0.3255765574
+		threshold: -7.998503313
+		polarity: -1
+		alpha: 0.3641302668
+	4: 
+		feature index: 172659
+		error: 0.3449800714
+		threshold: -12.45882103
+		polarity: -1
+		alpha: 0.3205895046
+	5: 
+		feature index: 109812
+		error: 0.3485417052
+		threshold: -2.514218133
+		polarity: -1
+		alpha: 0.3127277435
+	6: 
+		feature index: 310796
+		error: 0.3640115092
+		threshold: 22.12046339
+		polarity: 1
+		alpha: 0.2789974906
+	7: 
+		feature index: 151930
+		error: 0.358929067
+		threshold: 10.80421937
+		polarity: 1
+		alpha: 0.2900076634
+	8: 
+		feature index: 6780
+		error: 0.3680908893
+		threshold: -5.990048142
+		polarity: -1
+		alpha: 0.2702078411
+	9: 
+		feature index: 149076
+		error: 0.3698945544
+		threshold: -0.6818366305
+		polarity: -1
+		alpha: 0.2663346013
+	10: 
+		feature index: 111817
+		error: 0.3775394404
+		threshold: 3.094422156
+		polarity: -1
+		alpha: 0.2500026135
+	11: 
+		feature index: 121362
+		error: 0.3706942993
+		threshold: -2.948109045
+		polarity: -1
+		alpha: 0.2646197086
+	12: 
+		feature index: 180657
+		error: 0.3769772143
+		threshold: -1.053627035
+		polarity: 1
+		alpha: 0.251199173
+	13: 
+		feature index: 305375
+		error: 0.3836632453
+		threshold: -10.50263066
+		polarity: 1
+		alpha: 0.2370141457
+	14: 
+		feature index: 302319
+		error: 0.376268222
+		threshold: -1.402883532
+		polarity: -1
+		alpha: 0.2527090939
+	15: 
+		feature index: 16410
+		error: 0.385140964
+		threshold: 1.646550841
+		polarity: -1
+		alpha: 0.2338918121
+	16: 
+		feature index: 180345
+		error: 0.3823612266
+		threshold: -1.206146447
+		polarity: 1
+		alpha: 0.2397689983
+	17: 
+		feature index: 217024
+		error: 0.384565877
+		threshold: 0.9392745474
+		polarity: -1
+		alpha: 0.235106402
+	18: 
+		feature index: 155443
+		error: 0.390991039
+		threshold: -1.770586341
+		polarity: -1
+		alpha: 0.2215741701
+	19: 
+		feature index: 200834
+		error: 0.3880588974
+		threshold: -1.163936992
+		polarity: 1
+		alpha: 0.2277394574
+	20: 
+		feature index: 153135
+		error: 0.3905366035
+		threshold: -11.2455404
+		polarity: -1
+		alpha: 0.2225285963
+	21: 
+		feature index: 88161
+		error: 0.3903437158
+		threshold: -0.7118745992
+		polarity: -1
+		alpha: 0.2229338282
+	22: 
+		feature index: 121464
+		error: 0.3844924626
+		threshold: 46.39828628
+		polarity: 1
+		alpha: 0.2352615029
+	23: 
+		feature index: 210436
+		error: 0.386465652
+		threshold: 1.457164991
+		polarity: -1
+		alpha: 0.2310966275
+	24: 
+		feature index: 17307
+		error: 0.391874546
+		threshold: -3.990431712
+		polarity: 1
+		alpha: 0.2197197233
+	25: 
+		feature index: 150402
+		error: 0.3861603837
+		threshold: 0.7141516146
+		polarity: 1
+		alpha: 0.231740449
+	26: 
+		feature index: 198812
+		error: 0.3926869905
+		threshold: 0.4911761461
+		polarity: -1
+		alpha: 0.2180157459
+	27: 
+		feature index: 60465
+		error: 0.3887174345
+		threshold: -0.4335709422
+		polarity: -1
+		alpha: 0.2263533131
+	28: 
+		feature index: 198248
+		error: 0.3886004811
+		threshold: 1.456164301
+		polarity: -1
+		alpha: 0.2265994239
+	29: 
+		feature index: 162298
+		error: 0.3870687489
+		threshold: 1.6200368
+		polarity: 1
+		alpha: 0.2298252275
+	30: 
+		feature index: 3412
+		error: 0.387129296
+		threshold: -2.881333363
+		polarity: -1
+		alpha: 0.2296976274
+	31: 
+		feature index: 214319
+		error: 0.3890141873
+		threshold: -0.7135670147
+		polarity: 1
+		alpha: 0.2257289624
+	32: 
+		feature index: 31970
+		error: 0.3922162104
+		threshold: -1.906024136
+		polarity: -1
+		alpha: 0.2190029822
+	33: 
+		feature index: 27780
+		error: 0.3927124061
+		threshold: 0.5442868048
+		polarity: 1
+		alpha: 0.2179624608
+	34: 
+		feature index: 141732
+		error: 0.3936623622
+		threshold: 3.204828823
+		polarity: -1
+		alpha: 0.2159716978
+	35: 
+		feature index: 108732
+		error: 0.3916210829
+		threshold: 2.444210603
+		polarity: 1
+		alpha: 0.2202515799
+	36: 
+		feature index: 190809
+		error: 0.3880913598
+		threshold: -1.503562422
+		polarity: -1
+		alpha: 0.2276711076
+	37: 
+		feature index: 180488
+		error: 0.3893534829
+		threshold: -0.5376162861
+		polarity: 1
+		alpha: 0.2250153164
+	38: 
+		feature index: 215824
+		error: 0.3959549098
+		threshold: -0.9584153033
+		polarity: 1
+		alpha: 0.2111742536
+	39: 
+		feature index: 217018
+		error: 0.3937685
+		threshold: -2.01446313
+		polarity: 1
+		alpha: 0.2157493765
+	40: 
+		feature index: 121628
+		error: 0.3965158494
+		threshold: 0.6035420401
+		polarity: -1
+		alpha: 0.210001882
+	41: 
+		feature index: 211811
+		error: 0.3927626118
+		threshold: -1.761010443
+		polarity: 1
+		alpha: 0.2178572054
+	42: 
+		feature index: 198288
+		error: 0.3953806779
+		threshold: 1.044242263
+		polarity: -1
+		alpha: 0.2123749991
+	43: 
+		feature index: 42837
+		error: 0.3944214977
+		threshold: 1.433436168
+		polarity: 1
+		alpha: 0.2143820374
+	44: 
+		feature index: 180659
+		error: 0.3972512917
+		threshold: 1.30772193
+		polarity: -1
+		alpha: 0.2084656585
+	45: 
+		feature index: 146701
+		error: 0.3960071463
+		threshold: 13.63592808
+		polarity: -1
+		alpha: 0.2110650544
+	46: 
+		feature index: 151145
+		error: 0.391533137
+		threshold: -13.94723132
+		polarity: 1
+		alpha: 0.2204361505
+	47: 
+		feature index: 149076
+		error: 0.3923245181
+		threshold: -0.7266362678
+		polarity: -1
+		alpha: 0.2187758215
+	48: 
+		feature index: 75852
+		error: 0.39530369
+		threshold: 2.364710078
+		polarity: 1
+		alpha: 0.21253603
+	49: 
+		feature index: 125240
+		error: 0.3876276854
+		threshold: 34.8212782
+		polarity: 1
+		alpha: 0.2286475747
+	50: 
+		feature index: 213608
+		error: 0.3935704814
+		threshold: -1.157345381
+		polarity: 1
+		alpha: 0.2161641729
+
+Layer: 7
+	count of the previous-classifier: 1749
+	number of Classifier: 50
+	FALSE_POSITIVE_RATE: 0.722
+	DETECTION_RATE: 0.996
+	bias: 0.087
+	1: 
+		feature index: 179385
+		error: 0.2448703669
+		threshold: -22.06042894
+		polarity: -1
+		alpha: 0.5630802391
+	2: 
+		feature index: 250330
+		error: 0.297774626
+		threshold: 5.771612193
+		polarity: 1
+		alpha: 0.4289587431
+	3: 
+		feature index: 218435
+		error: 0.331820481
+		threshold: -2.511533086
+		polarity: -1
+		alpha: 0.3499813878
+	4: 
+		feature index: 203797
+		error: 0.3372623649
+		threshold: -2.795632908
+		polarity: -1
+		alpha: 0.3377590148
+	5: 
+		feature index: 187383
+		error: 0.3510951231
+		threshold: -3.558723089
+		polarity: -1
+		alpha: 0.3071144723
+	6: 
+		feature index: 162220
+		error: 0.3570480111
+		threshold: -1.805824612
+		polarity: -1
+		alpha: 0.2940998982
+	7: 
+		feature index: 65
+		error: 0.3678429176
+		threshold: -33.41925795
+		polarity: -1
+		alpha: 0.2707409594
+	8: 
+		feature index: 75445
+		error: 0.3637777306
+		threshold: 2.913140986
+		polarity: 1
+		alpha: 0.2795024658
+	9: 
+		feature index: 60420
+		error: 0.3698439116
+		threshold: -2.673713479
+		polarity: -1
+		alpha: 0.266443246
+	10: 
+		feature index: 109812
+		error: 0.3702840092
+		threshold: -2.39083584
+		polarity: -1
+		alpha: 0.265499303
+	11: 
+		feature index: 53719
+		error: 0.3759120313
+		threshold: -2.966193565
+		polarity: -1
+		alpha: 0.2534680885
+	12: 
+		feature index: 100523
+		error: 0.3712289774
+		threshold: 3.477742806
+		polarity: 1
+		alpha: 0.2634740471
+	13: 
+		feature index: 198951
+		error: 0.3798241479
+		threshold: 0.7251930565
+		polarity: -1
+		alpha: 0.2451473466
+	14: 
+		feature index: 112732
+		error: 0.3811036479
+		threshold: -0.7322510053
+		polarity: 1
+		alpha: 0.2424332174
+	15: 
+		feature index: 6078
+		error: 0.3788328922
+		threshold: -0.2790782253
+		polarity: 1
+		alpha: 0.2472524751
+	16: 
+		feature index: 103620
+		error: 0.3827626479
+		threshold: -0.4041422195
+		polarity: 1
+		alpha: 0.2389192794
+	17: 
+		feature index: 150963
+		error: 0.384429341
+		threshold: -15.57779407
+		polarity: 1
+		alpha: 0.2353948675
+	18: 
+		feature index: 156292
+		error: 0.3815717596
+		threshold: -2.326528636
+		polarity: -1
+		alpha: 0.2414411157
+	19: 
+		feature index: 40193
+		error: 0.3824744522
+		threshold: 10.80871307
+		polarity: 1
+		alpha: 0.2395292906
+	20: 
+		feature index: 150564
+		error: 0.3815987709
+		threshold: 0.7365158742
+		polarity: 1
+		alpha: 0.2413838831
+	21: 
+		feature index: 198957
+		error: 0.3867267883
+		threshold: 0.791864958
+		polarity: -1
+		alpha: 0.2305460313
+	22: 
+		feature index: 198957
+		error: 0.3864772123
+		threshold: -0.8216426655
+		polarity: 1
+		alpha: 0.23107225
+	23: 
+		feature index: 121464
+		error: 0.3892115574
+		threshold: 46.77049073
+		polarity: 1
+		alpha: 0.2253138032
+	24: 
+		feature index: 42500
+		error: 0.3887014299
+		threshold: 1.598132069
+		polarity: 1
+		alpha: 0.2263869907
+	25: 
+		feature index: 156263
+		error: 0.3866508635
+		threshold: 2.735659856
+		polarity: 1
+		alpha: 0.2307061017
+	26: 
+		feature index: 101826
+		error: 0.3812362572
+		threshold: -0.8787118743
+		polarity: 1
+		alpha: 0.2421521219
+	27: 
+		feature index: 149569
+		error: 0.3892246257
+		threshold: 12.19857104
+		polarity: -1
+		alpha: 0.2252863172
+	28: 
+		feature index: 305351
+		error: 0.3886238475
+		threshold: -26.8692354
+		polarity: 1
+		alpha: 0.2265502507
+	29: 
+		feature index: 5582
+		error: 0.3822022416
+		threshold: 1.955892068
+		polarity: 1
+		alpha: 0.2401056276
+	30: 
+		feature index: 130690
+		error: 0.3840046317
+		threshold: 0.2940628929
+		polarity: 1
+		alpha: 0.2362924152
+	31: 
+		feature index: 39837
+		error: 0.3902796947
+		threshold: -1.186236563
+		polarity: 1
+		alpha: 0.2230683441
+	32: 
+		feature index: 60630
+		error: 0.3872469435
+		threshold: -1.290492974
+		polarity: -1
+		alpha: 0.2294497121
+	33: 
+		feature index: 70812
+		error: 0.3867678731
+		threshold: 0.7668720862
+		polarity: -1
+		alpha: 0.2304594179
+	34: 
+		feature index: 214319
+		error: 0.388351468
+		threshold: -0.6056778133
+		polarity: 1
+		alpha: 0.2271235243
+	35: 
+		feature index: 85050
+		error: 0.3899492212
+		threshold: 4.113398734
+		polarity: 1
+		alpha: 0.2237628345
+	36: 
+		feature index: 161110
+		error: 0.3918422449
+		threshold: -1.164716379
+		polarity: -1
+		alpha: 0.2197874959
+	37: 
+		feature index: 200869
+		error: 0.3941331687
+		threshold: -0.9893116319
+		polarity: 1
+		alpha: 0.2149856839
+	38: 
+		feature index: 40748
+		error: 0.3931269713
+		threshold: 0.9474905638
+		polarity: -1
+		alpha: 0.2170934745
+	39: 
+		feature index: 179892
+		error: 0.3923903649
+		threshold: 1.782952975
+		polarity: -1
+		alpha: 0.2186377277
+	40: 
+		feature index: 155140
+		error: 0.3911646655
+		threshold: 0.5717694625
+		polarity: 1
+		alpha: 0.2212096169
+	41: 
+		feature index: 108840
+		error: 0.3888573012
+		threshold: 1.365529397
+		polarity: 1
+		alpha: 0.2260590202
+	42: 
+		feature index: 217620
+		error: 0.3961081878
+		threshold: -2.47359593
+		polarity: 1
+		alpha: 0.2108538439
+	43: 
+		feature index: 107485
+		error: 0.3956686712
+		threshold: 2.344685051
+		polarity: 1
+		alpha: 0.2117727165
+	44: 
+		feature index: 112107
+		error: 0.3941715541
+		threshold: -1.042642103
+		polarity: 1
+		alpha: 0.2149053113
+	45: 
+		feature index: 214307
+		error: 0.3945056514
+		threshold: 1.118232653
+		polarity: -1
+		alpha: 0.214205882
+	46: 
+		feature index: 198288
+		error: 0.3964242096
+		threshold: 1.174244113
+		polarity: -1
+		alpha: 0.2101933715
+	47: 
+		feature index: 72672
+		error: 0.3968458498
+		threshold: -3.486713853
+		polarity: -1
+		alpha: 0.2093124427
+	48: 
+		feature index: 148276
+		error: 0.3974591558
+		threshold: -0.4345523638
+		polarity: -1
+		alpha: 0.208031639
+	49: 
+		feature index: 208048
+		error: 0.3967840102
+		threshold: -1.162936133
+		polarity: 1
+		alpha: 0.2094416234
+	50: 
+		feature index: 198814
+		error: 0.3948837957
+		threshold: 0.9608055766
+		polarity: -1
+		alpha: 0.2134144897
+
+Layer: 8
+	count of the previous-classifier: 4038
+	number of Classifier: 150
+	FALSE_POSITIVE_RATE: 0.279
+	DETECTION_RATE: 0.996
+	bias: 0.033
+	1: 
+		feature index: 179385
+		error: 0.2520903687
+		threshold: -22.83422261
+		polarity: -1
+		alpha: 0.5437472639
+	2: 
+		feature index: 249080
+		error: 0.2987035092
+		threshold: 7.299308583
+		polarity: 1
+		alpha: 0.4267396393
+	3: 
+		feature index: 161797
+		error: 0.3281718468
+		threshold: -7.526622328
+		polarity: -1
+		alpha: 0.3582325946
+	4: 
+		feature index: 174430
+		error: 0.3409432624
+		threshold: -12.1885016
+		polarity: -1
+		alpha: 0.3295467748
+	5: 
+		feature index: 75555
+		error: 0.3366739225
+		threshold: 6.709144101
+		polarity: 1
+		alpha: 0.3390759089
+	6: 
+		feature index: 146451
+		error: 0.361762487
+		threshold: 12.97976124
+		polarity: 1
+		alpha: 0.2838613042
+	7: 
+		feature index: 155284
+		error: 0.3673285699
+		threshold: -2.271327084
+		polarity: -1
+		alpha: 0.271847243
+	8: 
+		feature index: 109812
+		error: 0.3676300685
+		threshold: -2.619695638
+		polarity: -1
+		alpha: 0.2711986869
+	9: 
+		feature index: 14806
+		error: 0.3720589323
+		threshold: 0.9932856134
+		polarity: 1
+		alpha: 0.2616970294
+	10: 
+		feature index: 149752
+		error: 0.3751082926
+		threshold: 20.13124528
+		polarity: -1
+		alpha: 0.255181801
+	11: 
+		feature index: 161320
+		error: 0.3779953736
+		threshold: -0.9143701921
+		polarity: -1
+		alpha: 0.2490327872
+	12: 
+		feature index: 99048
+		error: 0.3782337121
+		threshold: -0.5573154988
+		polarity: -1
+		alpha: 0.2485259944
+	13: 
+		feature index: 198784
+		error: 0.3794489339
+		threshold: 0.807002474
+		polarity: -1
+		alpha: 0.2459439366
+	14: 
+		feature index: 329
+		error: 0.3761096906
+		threshold: -16.48086692
+		polarity: -1
+		alpha: 0.2530468678
+	15: 
+		feature index: 155367
+		error: 0.3854667623
+		threshold: 2.067451312
+		polarity: 1
+		alpha: 0.2332040236
+	16: 
+		feature index: 206253
+		error: 0.3853077641
+		threshold: 5.577759192
+		polarity: -1
+		alpha: 0.2335396554
+	17: 
+		feature index: 302960
+		error: 0.3876120518
+		threshold: 11.44248988
+		polarity: -1
+		alpha: 0.2286805055
+	18: 
+		feature index: 59073
+		error: 0.3904948585
+		threshold: -3.770648012
+		polarity: -1
+		alpha: 0.222616291
+	19: 
+		feature index: 201385
+		error: 0.3783343644
+		threshold: 25.16167465
+		polarity: 1
+		alpha: 0.2483120093
+	20: 
+		feature index: 42945
+		error: 0.3836483347
+		threshold: 0.5185978899
+		polarity: -1
+		alpha: 0.2370456739
+	21: 
+		feature index: 6773
+		error: 0.3887677227
+		threshold: -3.938371053
+		polarity: -1
+		alpha: 0.2262474973
+	22: 
+		feature index: 43193
+		error: 0.3927720303
+		threshold: -2.303403085
+		polarity: -1
+		alpha: 0.2178374603
+	23: 
+		feature index: 198805
+		error: 0.3938590599
+		threshold: 0.9342403653
+		polarity: -1
+		alpha: 0.215559702
+	24: 
+		feature index: 121464
+		error: 0.3917945799
+		threshold: 47.49112451
+		polarity: 1
+		alpha: 0.2198875076
+	25: 
+		feature index: 214322
+		error: 0.3862169893
+		threshold: -1.106151727
+		polarity: 1
+		alpha: 0.2316210514
+	26: 
+		feature index: 214322
+		error: 0.3874868927
+		threshold: 0.6965629076
+		polarity: -1
+		alpha: 0.2289441595
+	27: 
+		feature index: 149790
+		error: 0.3929524104
+		threshold: -1.449710408
+		polarity: -1
+		alpha: 0.2174593389
+	28: 
+		feature index: 3435
+		error: 0.3898959209
+		threshold: -2.003344128
+		polarity: -1
+		alpha: 0.2238748649
+	29: 
+		feature index: 180609
+		error: 0.3904568049
+		threshold: 0.8528479648
+		polarity: -1
+		alpha: 0.222696234
+	30: 
+		feature index: 214955
+		error: 0.3969237623
+		threshold: -2.580600292
+		polarity: -1
+		alpha: 0.2091496959
+	31: 
+		feature index: 157359
+		error: 0.3955036961
+		threshold: -1.759158912
+		polarity: -1
+		alpha: 0.2121177117
+	32: 
+		feature index: 217024
+		error: 0.3942516016
+		threshold: 0.9841280928
+		polarity: -1
+		alpha: 0.2147377138
+	33: 
+		feature index: 218747
+		error: 0.3917191284
+		threshold: -2.237408589
+		polarity: -1
+		alpha: 0.2200458306
+	34: 
+		feature index: 203854
+		error: 0.3969070481
+		threshold: -1.022756964
+		polarity: 1
+		alpha: 0.2091846081
+	35: 
+		feature index: 304550
+		error: 0.3967854931
+		threshold: 1.277769315
+		polarity: 1
+		alpha: 0.2094385256
+	36: 
+		feature index: 14506
+		error: 0.3944810341
+		threshold: -4.420105938
+		polarity: 1
+		alpha: 0.214257411
+	37: 
+		feature index: 35069
+		error: 0.3958339943
+		threshold: -1.564633547
+		polarity: 1
+		alpha: 0.2114270435
+	38: 
+		feature index: 39137
+		error: 0.3968661576
+		threshold: 1.111137996
+		polarity: 1
+		alpha: 0.2092700217
+	39: 
+		feature index: 30255
+		error: 0.3974757629
+		threshold: 2.028414615
+		polarity: 1
+		alpha: 0.207996967
+	40: 
+		feature index: 107890
+		error: 0.398159721
+		threshold: -1.175352851
+		polarity: 1
+		alpha: 0.2065694295
+	41: 
+		feature index: 108840
+		error: 0.3969818663
+		threshold: 1.469056115
+		polarity: 1
+		alpha: 0.2090283329
+	42: 
+		feature index: 304769
+		error: 0.3957090521
+		threshold: -22.41252294
+		polarity: 1
+		alpha: 0.2116882798
+	43: 
+		feature index: 3420
+		error: 0.3876547448
+		threshold: -5.229262855
+		polarity: -1
+		alpha: 0.2285905777
+	44: 
+		feature index: 203874
+		error: 0.3980223491
+		threshold: 1.954361436
+		polarity: -1
+		alpha: 0.2068560814
+	45: 
+		feature index: 18006
+		error: 0.3944532048
+		threshold: 0.6775762555
+		polarity: 1
+		alpha: 0.2143156647
+	46: 
+		feature index: 159331
+		error: 0.3980291982
+		threshold: -0.423839045
+		polarity: -1
+		alpha: 0.2068417886
+	47: 
+		feature index: 113649
+		error: 0.3945508456
+		threshold: -0.817630289
+		polarity: 1
+		alpha: 0.2141112842
+	48: 
+		feature index: 125126
+		error: 0.3982049059
+		threshold: 38.55485758
+		polarity: 1
+		alpha: 0.2064751501
+	49: 
+		feature index: 214304
+		error: 0.3957188139
+		threshold: -1.115534819
+		polarity: 1
+		alpha: 0.2116678683
+	50: 
+		feature index: 180656
+		error: 0.4005292437
+		threshold: -0.6201765796
+		polarity: 1
+		alpha: 0.2016302057
+	51: 
+		feature index: 2113
+		error: 0.4036050944
+		threshold: -0.6880322492
+		polarity: 1
+		alpha: 0.195233065
+	52: 
+		feature index: 330323
+		error: 0.4020799321
+		threshold: -18.83914955
+		polarity: 1
+		alpha: 0.1984030873
+	53: 
+		feature index: 216420
+		error: 0.4016962112
+		threshold: 2.887480305
+		polarity: -1
+		alpha: 0.1992012619
+	54: 
+		feature index: 150492
+		error: 0.3995019614
+		threshold: -0.6654544253
+		polarity: -1
+		alpha: 0.2037703503
+	55: 
+		feature index: 43158
+		error: 0.4007830346
+		threshold: 0.326677542
+		polarity: -1
+		alpha: 0.2011017626
+	56: 
+		feature index: 216158
+		error: 0.4008176486
+		threshold: 0.5237067356
+		polarity: 1
+		alpha: 0.2010296981
+	57: 
+		feature index: 217020
+		error: 0.4008497367
+		threshold: -2.122692496
+		polarity: 1
+		alpha: 0.2009628939
+	58: 
+		feature index: 161963
+		error: 0.4020655869
+		threshold: 7.123770518
+		polarity: 1
+		alpha: 0.1984329221
+	59: 
+		feature index: 141732
+		error: 0.3987046565
+		threshold: 3.191652624
+		polarity: -1
+		alpha: 0.2054326502
+	60: 
+		feature index: 150776
+		error: 0.3999387435
+		threshold: -21.73717179
+		polarity: 1
+		alpha: 0.202860175
+	61: 
+		feature index: 146591
+		error: 0.3978853182
+		threshold: 15.03477192
+		polarity: -1
+		alpha: 0.207142055
+	62: 
+		feature index: 3244
+		error: 0.3994440752
+		threshold: -0.7147144883
+		polarity: 1
+		alpha: 0.2038909997
+	63: 
+		feature index: 155284
+		error: 0.4000990891
+		threshold: -2.411098391
+		polarity: -1
+		alpha: 0.202526127
+	64: 
+		feature index: 147916
+		error: 0.3994031218
+		threshold: 0.6165751195
+		polarity: 1
+		alpha: 0.2039763603
+	65: 
+		feature index: 198333
+		error: 0.4017691782
+		threshold: -1.734584463
+		polarity: 1
+		alpha: 0.1990494644
+	66: 
+		feature index: 202329
+		error: 0.4018800981
+		threshold: 1.944520186
+		polarity: -1
+		alpha: 0.198818729
+	67: 
+		feature index: 146473
+		error: 0.4033311436
+		threshold: 14.06964654
+		polarity: 1
+		alpha: 0.1958021796
+	68: 
+		feature index: 180611
+		error: 0.4038591801
+		threshold: 1.33478547
+		polarity: -1
+		alpha: 0.1947053306
+	69: 
+		feature index: 190811
+		error: 0.3999768573
+		threshold: -2.834519911
+		polarity: -1
+		alpha: 0.2027807685
+	70: 
+		feature index: 209248
+		error: 0.4017282609
+		threshold: -1.45163856
+		polarity: 1
+		alpha: 0.1991345859
+	71: 
+		feature index: 150564
+		error: 0.3953873307
+		threshold: 0.7485751979
+		polarity: 1
+		alpha: 0.2123610843
+	72: 
+		feature index: 146474
+		error: 0.3983449284
+		threshold: -0.6717108828
+		polarity: -1
+		alpha: 0.2061830131
+	73: 
+		feature index: 307877
+		error: 0.4010680473
+		threshold: -6.02225689
+		polarity: -1
+		alpha: 0.2005084416
+	74: 
+		feature index: 150402
+		error: 0.402567554
+		threshold: 0.6328826827
+		polarity: 1
+		alpha: 0.1973891488
+	75: 
+		feature index: 14506
+		error: 0.4061381456
+		threshold: -4.540434981
+		polarity: 1
+		alpha: 0.1899766812
+	76: 
+		feature index: 121926
+		error: 0.3995781801
+		threshold: 37.67063374
+		polarity: 1
+		alpha: 0.2036115003
+	77: 
+		feature index: 307527
+		error: 0.4057851459
+		threshold: -30.72476554
+		polarity: 1
+		alpha: 0.1907085696
+	78: 
+		feature index: 113652
+		error: 0.4036671215
+		threshold: 2.947717754
+		polarity: -1
+		alpha: 0.1951042253
+	79: 
+		feature index: 3369
+		error: 0.4043395992
+		threshold: -0.2207964868
+		polarity: 1
+		alpha: 0.1937077952
+	80: 
+		feature index: 218176
+		error: 0.4014620143
+		threshold: 2.706730438
+		polarity: 1
+		alpha: 0.1996885359
+	81: 
+		feature index: 161743
+		error: 0.4027767541
+		threshold: 0.9863169906
+		polarity: 1
+		alpha: 0.1969542706
+	82: 
+		feature index: 206398
+		error: 0.4048688927
+		threshold: 6.314199019
+		polarity: -1
+		alpha: 0.1926092184
+	83: 
+		feature index: 111852
+		error: 0.4032930961
+		threshold: -2.076570074
+		polarity: -1
+		alpha: 0.1958812307
+	84: 
+		feature index: 215322
+		error: 0.4032838992
+		threshold: -2.489979241
+		polarity: 1
+		alpha: 0.1959003394
+	85: 
+		feature index: 199976
+		error: 0.4020550923
+		threshold: -3.955038192
+		polarity: -1
+		alpha: 0.1984547486
+	86: 
+		feature index: 159868
+		error: 0.4021789663
+		threshold: 1.027707494
+		polarity: 1
+		alpha: 0.1981971275
+	87: 
+		feature index: 42984
+		error: 0.4020264504
+		threshold: 0.3362686138
+		polarity: -1
+		alpha: 0.1985143189
+	88: 
+		feature index: 113506
+		error: 0.4031370321
+		threshold: -2.384330312
+		polarity: 1
+		alpha: 0.1962055091
+	89: 
+		feature index: 99265
+		error: 0.4035015541
+		threshold: -0.8941067655
+		polarity: 1
+		alpha: 0.1954481484
+	90: 
+		feature index: 181540
+		error: 0.4010664805
+		threshold: -1.356696625
+		polarity: 1
+		alpha: 0.2005117029
+	91: 
+		feature index: 307635
+		error: 0.4039414791
+		threshold: 3.197416183
+		polarity: -1
+		alpha: 0.1945344189
+	92: 
+		feature index: 162037
+		error: 0.4023431791
+		threshold: 1.058647291
+		polarity: 1
+		alpha: 0.1978556537
+	93: 
+		feature index: 112101
+		error: 0.4020806721
+		threshold: -0.7959076514
+		polarity: 1
+		alpha: 0.1984015482
+	94: 
+		feature index: 110453
+		error: 0.4011416349
+		threshold: 18.11305259
+		polarity: -1
+		alpha: 0.2003552743
+	95: 
+		feature index: 205339
+		error: 0.4002642695
+		threshold: 1.006303522
+		polarity: -1
+		alpha: 0.2021820531
+	96: 
+		feature index: 157359
+		error: 0.4011322934
+		threshold: -2.007022708
+		polarity: -1
+		alpha: 0.2003747175
+	97: 
+		feature index: 330954
+		error: 0.4101081814
+		threshold: -0.9088280868
+		polarity: -1
+		alpha: 0.1817590899
+	98: 
+		feature index: 161519
+		error: 0.4072181662
+		threshold: -1.182995054
+		polarity: -1
+		alpha: 0.1877386761
+	99: 
+		feature index: 213617
+		error: 0.4006919914
+		threshold: 1.803372724
+		polarity: -1
+		alpha: 0.2012913198
+	100: 
+		feature index: 42877
+		error: 0.4023284341
+		threshold: 1.137667235
+		polarity: 1
+		alpha: 0.1978863134
+	101: 
+		feature index: 161327
+		error: 0.4006584636
+		threshold: -0.9701093597
+		polarity: 1
+		alpha: 0.2013611303
+	102: 
+		feature index: 130655
+		error: 0.4040787398
+		threshold: 0.3791632429
+		polarity: 1
+		alpha: 0.1942493925
+	103: 
+		feature index: 59073
+		error: 0.3962114539
+		threshold: -3.717542454
+		polarity: -1
+		alpha: 0.2106380022
+	104: 
+		feature index: 146591
+		error: 0.4020638254
+		threshold: 13.92384599
+		polarity: -1
+		alpha: 0.1984365856
+	105: 
+		feature index: 103620
+		error: 0.4050103164
+		threshold: -0.3884368783
+		polarity: 1
+		alpha: 0.1923157637
+	106: 
+		feature index: 158005
+		error: 0.4039493498
+		threshold: -1.071640836
+		polarity: -1
+		alpha: 0.1945180744
+	107: 
+		feature index: 158744
+		error: 0.4051238059
+		threshold: -5.027989407
+		polarity: -1
+		alpha: 0.1920802964
+	108: 
+		feature index: 350316
+		error: 0.4059412154
+		threshold: 1.825950319
+		polarity: -1
+		alpha: 0.1903849595
+	109: 
+		feature index: 148976
+		error: 0.4025754068
+		threshold: -1.426373846
+		polarity: -1
+		alpha: 0.1973728233
+	110: 
+		feature index: 159146
+		error: 0.4066846362
+		threshold: 1.284108699
+		polarity: 1
+		alpha: 0.1888440164
+	111: 
+		feature index: 30255
+		error: 0.4067179505
+		threshold: 1.997922316
+		polarity: 1
+		alpha: 0.1887749844
+	112: 
+		feature index: 106316
+		error: 0.4041087486
+		threshold: -1.388959124
+		polarity: 1
+		alpha: 0.1941870825
+	113: 
+		feature index: 206398
+		error: 0.4070648363
+		threshold: 2.12578976
+		polarity: -1
+		alpha: 0.1880562905
+	114: 
+		feature index: 318065
+		error: 0.4069618018
+		threshold: -6.584143977
+		polarity: 1
+		alpha: 0.1882697421
+	115: 
+		feature index: 43158
+		error: 0.4073815387
+		threshold: -0.3059542545
+		polarity: 1
+		alpha: 0.1874002999
+	116: 
+		feature index: 151393
+		error: 0.4039132406
+		threshold: -0.8487389779
+		polarity: -1
+		alpha: 0.194593061
+	117: 
+		feature index: 180659
+		error: 0.399320093
+		threshold: 1.536313943
+		polarity: -1
+		alpha: 0.2041494292
+	118: 
+		feature index: 218175
+		error: 0.402885852
+		threshold: 2.20923426
+		polarity: 1
+		alpha: 0.1967275108
+	119: 
+		feature index: 182091
+		error: 0.4040216579
+		threshold: 1.032992944
+		polarity: -1
+		alpha: 0.1943679212
+	120: 
+		feature index: 107915
+		error: 0.4035369853
+		threshold: 1.88474212
+		polarity: -1
+		alpha: 0.1953745455
+	121: 
+		feature index: 113504
+		error: 0.4024578138
+		threshold: -1.594369886
+		polarity: 1
+		alpha: 0.1976173025
+	122: 
+		feature index: 125240
+		error: 0.4065523922
+		threshold: 38.27649901
+		polarity: 1
+		alpha: 0.1891180634
+	123: 
+		feature index: 110040
+		error: 0.401142166
+		threshold: -1.179164162
+		polarity: -1
+		alpha: 0.200354169
+	124: 
+		feature index: 202344
+		error: 0.4034705739
+		threshold: 1.665208045
+		polarity: -1
+		alpha: 0.1955125067
+	125: 
+		feature index: 75577
+		error: 0.4032839461
+		threshold: 6.746345579
+		polarity: 1
+		alpha: 0.195900242
+	126: 
+		feature index: 43158
+		error: 0.3980702115
+		threshold: 0.2734739143
+		polarity: -1
+		alpha: 0.2067562037
+	127: 
+		feature index: 28980
+		error: 0.4058406428
+		threshold: -1.154079768
+		polarity: 1
+		alpha: 0.1905934922
+	128: 
+		feature index: 215322
+		error: 0.4012795559
+		threshold: -2.549649749
+		polarity: 1
+		alpha: 0.2000682268
+	129: 
+		feature index: 216854
+		error: 0.4013130824
+		threshold: -0.8366719455
+		polarity: -1
+		alpha: 0.1999984548
+	130: 
+		feature index: 39408
+		error: 0.4017381359
+		threshold: -1.698537412
+		polarity: -1
+		alpha: 0.1991140425
+	131: 
+		feature index: 101826
+		error: 0.4012205409
+		threshold: -1.036987444
+		polarity: 1
+		alpha: 0.2001910475
+	132: 
+		feature index: 217032
+		error: 0.4068705139
+		threshold: -1.911403368
+		polarity: 1
+		alpha: 0.1884588729
+	133: 
+		feature index: 108840
+		error: 0.4017328681
+		threshold: 1.371875291
+		polarity: 1
+		alpha: 0.1991250012
+	134: 
+		feature index: 113751
+		error: 0.4074457895
+		threshold: 1.515139399
+		polarity: -1
+		alpha: 0.1872672357
+	135: 
+		feature index: 158416
+		error: 0.4053503762
+		threshold: 0.5107137992
+		polarity: 1
+		alpha: 0.1916102726
+	136: 
+		feature index: 40381
+		error: 0.4046907732
+		threshold: 1.093048717
+		polarity: 1
+		alpha: 0.1929788636
+	137: 
+		feature index: 217076
+		error: 0.4038921026
+		threshold: -2.304205217
+		polarity: 1
+		alpha: 0.1946369585
+	138: 
+		feature index: 217076
+		error: 0.404757921
+		threshold: 2.791650951
+		polarity: -1
+		alpha: 0.1928395078
+	139: 
+		feature index: 309436
+		error: 0.4071420987
+		threshold: -6.240769693
+		polarity: -1
+		alpha: 0.1878962411
+	140: 
+		feature index: 114016
+		error: 0.4031313877
+		threshold: 0.6454182716
+		polarity: -1
+		alpha: 0.1962172381
+	141: 
+		feature index: 157002
+		error: 0.3990711368
+		threshold: -0.5430715294
+		polarity: -1
+		alpha: 0.2046684373
+	142: 
+		feature index: 207197
+		error: 0.401400364
+		threshold: 23.81099156
+		polarity: 1
+		alpha: 0.1998168221
+	143: 
+		feature index: 1304
+		error: 0.401904811
+		threshold: -2.949971167
+		polarity: 1
+		alpha: 0.1987673241
+	144: 
+		feature index: 199976
+		error: 0.402324754
+		threshold: -3.963522989
+		polarity: -1
+		alpha: 0.1978939657
+	145: 
+		feature index: 180080
+		error: 0.3994620119
+		threshold: -0.6809109416
+		polarity: 1
+		alpha: 0.2038536144
+	146: 
+		feature index: 202329
+		error: 0.4031913608
+		threshold: -1.563943842
+		polarity: 1
+		alpha: 0.1960926174
+	147: 
+		feature index: 33685
+		error: 0.4057036597
+		threshold: -1.077202473
+		polarity: -1
+		alpha: 0.1908775466
+	148: 
+		feature index: 18006
+		error: 0.4062697802
+		threshold: 0.6504783537
+		polarity: 1
+		alpha: 0.1897038093
+	149: 
+		feature index: 81020
+		error: 0.4036208307
+		threshold: -1.185612319
+		polarity: 1
+		alpha: 0.1952003777
+	150: 
+		feature index: 160679
+		error: 0.4041736303
+		threshold: -1.745460169
+		polarity: -1
+		alpha: 0.1940523676
+
+Layer: 9
+	count of the previous-classifier: 33868
+	number of Classifier: 120
+	FALSE_POSITIVE_RATE: 0.627
+	DETECTION_RATE: 0.996
+	bias: 0.022
+	1: 
+		feature index: 179385
+		error: 0.2703315868
+		threshold: -23.00786086
+		polarity: -1
+		alpha: 0.4964704489
+	2: 
+		feature index: 217407
+		error: 0.3104787979
+		threshold: -8.681241483
+		polarity: -1
+		alpha: 0.3989409157
+	3: 
+		feature index: 203768
+		error: 0.338938951
+		threshold: -7.810651798
+		polarity: -1
+		alpha: 0.3340130943
+	4: 
+		feature index: 85110
+		error: 0.3655931239
+		threshold: 1.083441896
+		polarity: 1
+		alpha: 0.2755847387
+	5: 
+		feature index: 186111
+		error: 0.3751253477
+		threshold: -5.320904849
+		polarity: -1
+		alpha: 0.2551454213
+	6: 
+		feature index: 99878
+		error: 0.3769424821
+		threshold: 10.60684285
+		polarity: 1
+		alpha: 0.2512731152
+	7: 
+		feature index: 103626
+		error: 0.383954217
+		threshold: -0.5313434496
+		polarity: 1
+		alpha: 0.2363989824
+	8: 
+		feature index: 161795
+		error: 0.387689265
+		threshold: -7.879338623
+		polarity: -1
+		alpha: 0.2285178676
+	9: 
+		feature index: 154266
+		error: 0.3938979839
+		threshold: -1.750180111
+		polarity: -1
+		alpha: 0.2154781818
+	10: 
+		feature index: 310124
+		error: 0.3903566589
+		threshold: -2.79763125
+		polarity: 1
+		alpha: 0.2229066341
+	11: 
+		feature index: 214958
+		error: 0.3913179935
+		threshold: -2.873005162
+		polarity: -1
+		alpha: 0.2208877313
+	12: 
+		feature index: 106640
+		error: 0.3914137801
+		threshold: 1.936267933
+		polarity: -1
+		alpha: 0.2206866666
+	13: 
+		feature index: 28887
+		error: 0.3963855558
+		threshold: -7.863199684
+		polarity: 1
+		alpha: 0.2102741468
+	14: 
+		feature index: 156263
+		error: 0.3913461983
+		threshold: 2.687975704
+		polarity: 1
+		alpha: 0.220828525
+	15: 
+		feature index: 161348
+		error: 0.3922874795
+		threshold: 0.8610276454
+		polarity: -1
+		alpha: 0.2188535025
+	16: 
+		feature index: 180659
+		error: 0.395058518
+		threshold: 1.336156212
+		polarity: -1
+		alpha: 0.2130489143
+	17: 
+		feature index: 38008
+		error: 0.3946483203
+		threshold: -1.044828809
+		polarity: -1
+		alpha: 0.2139072691
+	18: 
+		feature index: 86890
+		error: 0.3974793988
+		threshold: -1.470377861
+		polarity: 1
+		alpha: 0.2079893759
+	19: 
+		feature index: 217018
+		error: 0.3944118017
+		threshold: 2.670885635
+		polarity: -1
+		alpha: 0.2144023345
+	20: 
+		feature index: 99048
+		error: 0.3981529845
+		threshold: -0.6281384111
+		polarity: -1
+		alpha: 0.2065834857
+	21: 
+		feature index: 210420
+		error: 0.3921650853
+		threshold: 1.823258899
+		polarity: -1
+		alpha: 0.2191102181
+	22: 
+		feature index: 179984
+		error: 0.3978660478
+		threshold: 0.4829733724
+		polarity: -1
+		alpha: 0.2071822737
+	23: 
+		feature index: 103740
+		error: 0.3953269109
+		threshold: -0.2529340501
+		polarity: 1
+		alpha: 0.2124874591
+	24: 
+		feature index: 195923
+		error: 0.3994188989
+		threshold: -2.737841243
+		polarity: 1
+		alpha: 0.2039434751
+	25: 
+		feature index: 150024
+		error: 0.3977204815
+		threshold: -0.6955047137
+		polarity: -1
+		alpha: 0.2074861016
+	26: 
+		feature index: 215789
+		error: 0.4004762727
+		threshold: -4.699528831
+		polarity: 1
+		alpha: 0.2017405158
+	27: 
+		feature index: 162292
+		error: 0.4007023146
+		threshold: 2.196004119
+		polarity: 1
+		alpha: 0.2012698257
+	28: 
+		feature index: 70800
+		error: 0.4023115001
+		threshold: -0.4276727067
+		polarity: 1
+		alpha: 0.1979215253
+	29: 
+		feature index: 70848
+		error: 0.4005889705
+		threshold: 1.255873277
+		polarity: -1
+		alpha: 0.2015058327
+	30: 
+		feature index: 159506
+		error: 0.4036192669
+		threshold: -1.857137155
+		polarity: -1
+		alpha: 0.1952036261
+	31: 
+		feature index: 180659
+		error: 0.4055630392
+		threshold: -1.593866259
+		polarity: 1
+		alpha: 0.1911691756
+	32: 
+		feature index: 110952
+		error: 0.4014555547
+		threshold: 2.30549139
+		polarity: 1
+		alpha: 0.1997019772
+	33: 
+		feature index: 154266
+		error: 0.4034917407
+		threshold: -1.845267269
+		polarity: -1
+		alpha: 0.1954685347
+	34: 
+		feature index: 197953
+		error: 0.4002217903
+		threshold: 1.532661411
+		polarity: -1
+		alpha: 0.2022705336
+	35: 
+		feature index: 161456
+		error: 0.4029895301
+		threshold: 1.786399487
+		polarity: 1
+		alpha: 0.1965120345
+	36: 
+		feature index: 105355
+		error: 0.4041609823
+		threshold: -0.5214498955
+		polarity: 1
+		alpha: 0.1940786281
+	37: 
+		feature index: 153696
+		error: 0.4019112796
+		threshold: 0.691177275
+		polarity: 1
+		alpha: 0.198753869
+	38: 
+		feature index: 180274
+		error: 0.4036838654
+		threshold: 0.9831627783
+		polarity: -1
+		alpha: 0.1950694466
+	39: 
+		feature index: 292
+		error: 0.4018418659
+		threshold: -2.960927443
+		polarity: -1
+		alpha: 0.1988982573
+	40: 
+		feature index: 217606
+		error: 0.4011854779
+		threshold: 2.718380452
+		polarity: -1
+		alpha: 0.2002640228
+	41: 
+		feature index: 318442
+		error: 0.4039702841
+		threshold: -1.553206086
+		polarity: 1
+		alpha: 0.1944746018
+	42: 
+		feature index: 107905
+		error: 0.4042142953
+		threshold: 1.209446523
+		polarity: -1
+		alpha: 0.1939679377
+	43: 
+		feature index: 1731
+		error: 0.4051445599
+		threshold: 0.6201269904
+		polarity: -1
+		alpha: 0.1920372385
+	44: 
+		feature index: 198248
+		error: 0.4077668278
+		threshold: 1.425626127
+		polarity: -1
+		alpha: 0.1866024593
+	45: 
+		feature index: 42859
+		error: 0.4074314618
+		threshold: 2.819185696
+		polarity: 1
+		alpha: 0.1872969081
+	46: 
+		feature index: 214385
+		error: 0.4071900259
+		threshold: 2.698003702
+		polarity: -1
+		alpha: 0.1877969644
+	47: 
+		feature index: 123440
+		error: 0.4065319675
+		threshold: 39.54123882
+		polarity: 1
+		alpha: 0.1891603916
+	48: 
+		feature index: 187588
+		error: 0.4033433945
+		threshold: 0.9434751754
+		polarity: 1
+		alpha: 0.1957767265
+	49: 
+		feature index: 160127
+		error: 0.4053094227
+		threshold: -2.654562466
+		polarity: -1
+		alpha: 0.191695225
+	50: 
+		feature index: 156262
+		error: 0.4002438906
+		threshold: 1.880822138
+		polarity: 1
+		alpha: 0.2022245002
+	51: 
+		feature index: 148276
+		error: 0.4024727037
+		threshold: -0.6103375526
+		polarity: -1
+		alpha: 0.1975863446
+	52: 
+		feature index: 199043
+		error: 0.40220808
+		threshold: -0.4555953305
+		polarity: 1
+		alpha: 0.1981365834
+	53: 
+		feature index: 2736
+		error: 0.4044539291
+		threshold: -0.3058601227
+		polarity: 1
+		alpha: 0.1934704585
+	54: 
+		feature index: 2736
+		error: 0.4087242538
+		threshold: 0.4391069292
+		polarity: -1
+		alpha: 0.1846208758
+	55: 
+		feature index: 103626
+		error: 0.4072603075
+		threshold: -0.7368022408
+		polarity: 1
+		alpha: 0.1876513892
+	56: 
+		feature index: 159808
+		error: 0.4086567502
+		threshold: 0.4839773633
+		polarity: 1
+		alpha: 0.1847605408
+	57: 
+		feature index: 101351
+		error: 0.4082830948
+		threshold: -1.301688171
+		polarity: 1
+		alpha: 0.1855337632
+	58: 
+		feature index: 154273
+		error: 0.4063727421
+		threshold: 1.177805594
+		polarity: 1
+		alpha: 0.1894903939
+	59: 
+		feature index: 217606
+		error: 0.4089392809
+		threshold: 2.858385827
+		polarity: -1
+		alpha: 0.1841760321
+	60: 
+		feature index: 158011
+		error: 0.4087956626
+		threshold: 1.176988703
+		polarity: 1
+		alpha: 0.1844731387
+	61: 
+		feature index: 179770
+		error: 0.4100330037
+		threshold: -1.711161212
+		polarity: 1
+		alpha: 0.1819144719
+	62: 
+		feature index: 99048
+		error: 0.4081636598
+		threshold: -0.6849199773
+		polarity: -1
+		alpha: 0.1857809617
+	63: 
+		feature index: 75522
+		error: 0.4092357681
+		threshold: 6.262564948
+		polarity: 1
+		alpha: 0.1835627834
+	64: 
+		feature index: 200869
+		error: 0.4107475935
+		threshold: 1.248877393
+		polarity: -1
+		alpha: 0.1804378639
+	65: 
+		feature index: 200869
+		error: 0.4097582785
+		threshold: -0.9817922053
+		polarity: 1
+		alpha: 0.1824823646
+	66: 
+		feature index: 161748
+		error: 0.4106538886
+		threshold: -0.6267153563
+		polarity: -1
+		alpha: 0.1806314486
+	67: 
+		feature index: 318258
+		error: 0.4125425751
+		threshold: -1.514745568
+		polarity: 1
+		alpha: 0.1767321811
+	68: 
+		feature index: 112101
+		error: 0.4102844131
+		threshold: -0.7403675546
+		polarity: 1
+		alpha: 0.1813948774
+	69: 
+		feature index: 5296
+		error: 0.4117178059
+		threshold: 0.3617992209
+		polarity: -1
+		alpha: 0.1784342886
+	70: 
+		feature index: 160712
+		error: 0.4120713112
+		threshold: -1.826015528
+		polarity: -1
+		alpha: 0.1777046217
+	71: 
+		feature index: 43158
+		error: 0.4089683411
+		threshold: -0.242522376
+		polarity: 1
+		alpha: 0.1841159184
+	72: 
+		feature index: 161370
+		error: 0.4083654289
+		threshold: -1.493471579
+		polarity: -1
+		alpha: 0.1853633667
+	73: 
+		feature index: 179772
+		error: 0.4122270537
+		threshold: 1.865644078
+		polarity: -1
+		alpha: 0.1773832143
+	74: 
+		feature index: 216232
+		error: 0.4094707773
+		threshold: 4.674685951
+		polarity: 1
+		alpha: 0.1830767918
+	75: 
+		feature index: 216608
+		error: 0.4091654868
+		threshold: -1.515660668
+		polarity: 1
+		alpha: 0.1837081396
+	76: 
+		feature index: 179984
+		error: 0.4094980827
+		threshold: 0.4361265338
+		polarity: -1
+		alpha: 0.1830203307
+	77: 
+		feature index: 149076
+		error: 0.4077947988
+		threshold: -0.7577307042
+		polarity: -1
+		alpha: 0.1865445473
+	78: 
+		feature index: 154569
+		error: 0.4086177704
+		threshold: 12.78959247
+		polarity: -1
+		alpha: 0.1848411933
+	79: 
+		feature index: 26835
+		error: 0.4085207531
+		threshold: -1.66000672
+		polarity: 1
+		alpha: 0.1850419406
+	80: 
+		feature index: 125240
+		error: 0.4052052915
+		threshold: 38.68910264
+		polarity: 1
+		alpha: 0.1919112434
+	81: 
+		feature index: 305375
+		error: 0.4078215306
+		threshold: -10.00520646
+		polarity: 1
+		alpha: 0.1864892021
+	82: 
+		feature index: 88925
+		error: 0.4045646913
+		threshold: -3.467579074
+		polarity: 1
+		alpha: 0.1932405482
+	83: 
+		feature index: 36830
+		error: 0.4084418882
+		threshold: -1.72820528
+		polarity: -1
+		alpha: 0.1852051379
+	84: 
+		feature index: 158009
+		error: 0.4095964794
+		threshold: 3.550782705
+		polarity: 1
+		alpha: 0.182816879
+	85: 
+		feature index: 105365
+		error: 0.4086964984
+		threshold: -0.5245258496
+		polarity: 1
+		alpha: 0.1846783008
+	86: 
+		feature index: 156238
+		error: 0.4087639693
+		threshold: 8.878225611
+		polarity: 1
+		alpha: 0.1845387078
+	87: 
+		feature index: 161110
+		error: 0.4094421135
+		threshold: -1.374866819
+		polarity: -1
+		alpha: 0.183136063
+	88: 
+		feature index: 211877
+		error: 0.4079467964
+		threshold: 0.8807762611
+		polarity: -1
+		alpha: 0.1862298684
+	89: 
+		feature index: 107895
+		error: 0.4129549833
+		threshold: -0.3363663701
+		polarity: 1
+		alpha: 0.1758814594
+	90: 
+		feature index: 158727
+		error: 0.4104185052
+		threshold: 1.165361388
+		polarity: 1
+		alpha: 0.1811177854
+	91: 
+		feature index: 107920
+		error: 0.4106033875
+		threshold: 1.891934684
+		polarity: -1
+		alpha: 0.1807357842
+	92: 
+		feature index: 188593
+		error: 0.4092291691
+		threshold: -3.99425634
+		polarity: -1
+		alpha: 0.1835764312
+	93: 
+		feature index: 148276
+		error: 0.4105946262
+		threshold: -0.6647305762
+		polarity: -1
+		alpha: 0.1807538855
+	94: 
+		feature index: 162199
+		error: 0.4121792455
+		threshold: -2.945219106
+		polarity: -1
+		alpha: 0.1774818727
+	95: 
+		feature index: 218542
+		error: 0.4099389256
+		threshold: -2.223100944
+		polarity: 1
+		alpha: 0.1821089304
+	96: 
+		feature index: 149256
+		error: 0.4130585648
+		threshold: -0.6801917428
+		polarity: -1
+		alpha: 0.1756678294
+	97: 
+		feature index: 125240
+		error: 0.4096076793
+		threshold: 38.30260156
+		polarity: 1
+		alpha: 0.1827937222
+	98: 
+		feature index: 179891
+		error: 0.4094727415
+		threshold: 1.52419678
+		polarity: -1
+		alpha: 0.1830727303
+	99: 
+		feature index: 161280
+		error: 0.4098839429
+		threshold: -0.5121220441
+		polarity: -1
+		alpha: 0.1822225855
+	100: 
+		feature index: 161472
+		error: 0.4043998204
+		threshold: 0.6653664809
+		polarity: -1
+		alpha: 0.1935827797
+	101: 
+		feature index: 102480
+		error: 0.4108929019
+		threshold: 0.5167548338
+		polarity: 1
+		alpha: 0.1801376981
+	102: 
+		feature index: 198805
+		error: 0.4115766937
+		threshold: -1.078069879
+		polarity: 1
+		alpha: 0.1787256094
+	103: 
+		feature index: 318724
+		error: 0.412990463
+		threshold: 0.6789854879
+		polarity: -1
+		alpha: 0.175808283
+	104: 
+		feature index: 92328
+		error: 0.4112546624
+		threshold: 0.6002033708
+		polarity: -1
+		alpha: 0.1793905435
+	105: 
+		feature index: 5296
+		error: 0.4127117652
+		threshold: 0.3617279543
+		polarity: -1
+		alpha: 0.1763831428
+	106: 
+		feature index: 18006
+		error: 0.4091370009
+		threshold: 0.7984190727
+		polarity: 1
+		alpha: 0.1837670564
+	107: 
+		feature index: 159450
+		error: 0.4108041194
+		threshold: 3.237902122
+		polarity: 1
+		alpha: 0.1803210937
+	108: 
+		feature index: 198631
+		error: 0.4137354088
+		threshold: 1.63820711
+		polarity: -1
+		alpha: 0.174272274
+	109: 
+		feature index: 112622
+		error: 0.4106899075
+		threshold: -1.327661257
+		polarity: -1
+		alpha: 0.1805570357
+	110: 
+		feature index: 154266
+		error: 0.4140834568
+		threshold: -1.901380419
+		polarity: -1
+		alpha: 0.1735549109
+	111: 
+		feature index: 40150
+		error: 0.4113420202
+		threshold: -1.680948113
+		polarity: -1
+		alpha: 0.1792101505
+	112: 
+		feature index: 43158
+		error: 0.4109101566
+		threshold: -0.2847626079
+		polarity: 1
+		alpha: 0.180102057
+	113: 
+		feature index: 113699
+		error: 0.4034743815
+		threshold: -0.6546450419
+		polarity: -1
+		alpha: 0.1955045969
+	114: 
+		feature index: 114217
+		error: 0.4112265302
+		threshold: 2.463404318
+		polarity: -1
+		alpha: 0.1794486385
+	115: 
+		feature index: 154570
+		error: 0.4135365434
+		threshold: -18.77624293
+		polarity: 1
+		alpha: 0.1746822362
+	116: 
+		feature index: 103242
+		error: 0.4105062158
+		threshold: 2.626534444
+		polarity: -1
+		alpha: 0.1809365524
+	117: 
+		feature index: 146607
+		error: 0.4130373195
+		threshold: 8.710698209
+		polarity: -1
+		alpha: 0.1757116451
+	118: 
+		feature index: 161143
+		error: 0.4138590034
+		threshold: 1.308316515
+		polarity: 1
+		alpha: 0.1740175124
+	119: 
+		feature index: 113062
+		error: 0.413828227
+		threshold: -0.4446285934
+		polarity: 1
+		alpha: 0.1740809487
+	120: 
+		feature index: 159812
+		error: 0.4110096396
+		threshold: 0.9571580763
+		polarity: 1
+		alpha: 0.1798965747
+
+Layer: 10
+	count of the previous-classifier: 28623
+	number of Classifier: 85
+	FALSE_POSITIVE_RATE: 0.489
+	DETECTION_RATE: 0.998
+	bias: 0
+	1: 
+		feature index: 162484
+		error: 0.2829406121
+		threshold: -37.1223183
+		polarity: -1
+		alpha: 0.4649608206
+	2: 
+		feature index: 75544
+		error: 0.3021097787
+		threshold: 6.64513744
+		polarity: 1
+		alpha: 0.4186356787
+	3: 
+		feature index: 330386
+		error: 0.3432239926
+		threshold: -12.49960738
+		polarity: -1
+		alpha: 0.3244798772
+	4: 
+		feature index: 352239
+		error: 0.3628316745
+		threshold: 2.055927657
+		polarity: 1
+		alpha: 0.2815474239
+	5: 
+		feature index: 186109
+		error: 0.3724856501
+		threshold: -3.998391014
+		polarity: -1
+		alpha: 0.2607840127
+	6: 
+		feature index: 343324
+		error: 0.376996249
+		threshold: 7.520173586
+		polarity: -1
+		alpha: 0.2511586509
+	7: 
+		feature index: 347006
+		error: 0.3808016799
+		threshold: -1.289733643
+		polarity: -1
+		alpha: 0.2430734475
+	8: 
+		feature index: 198318
+		error: 0.390369694
+		threshold: 1.336821164
+		polarity: -1
+		alpha: 0.2228792471
+	9: 
+		feature index: 43296
+		error: 0.3929535484
+		threshold: 2.280983669
+		polarity: -1
+		alpha: 0.2174569537
+	10: 
+		feature index: 207453
+		error: 0.3921572684
+		threshold: 2.257645578
+		polarity: 1
+		alpha: 0.2191266146
+	11: 
+		feature index: 161837
+		error: 0.38786203
+		threshold: -5.916068478
+		polarity: -1
+		alpha: 0.2281540073
+	12: 
+		feature index: 100635
+		error: 0.3965335988
+		threshold: 5.274097149
+		polarity: 1
+		alpha: 0.2099647949
+	13: 
+		feature index: 2856
+		error: 0.391752442
+		threshold: -0.2620020436
+		polarity: 1
+		alpha: 0.219975926
+	14: 
+		feature index: 215920
+		error: 0.3897761141
+		threshold: 2.228833423
+		polarity: -1
+		alpha: 0.2241267041
+	15: 
+		feature index: 85728
+		error: 0.3990820089
+		threshold: 55.2338762
+		polarity: -1
+		alpha: 0.2046457696
+	16: 
+		feature index: 141720
+		error: 0.397237134
+		threshold: -3.618542754
+		polarity: 1
+		alpha: 0.2084952226
+	17: 
+		feature index: 216232
+		error: 0.3978879291
+		threshold: 4.699085274
+		polarity: 1
+		alpha: 0.207136606
+	18: 
+		feature index: 218833
+		error: 0.3960200378
+		threshold: -1.711621592
+		polarity: 1
+		alpha: 0.211038106
+	19: 
+		feature index: 2978
+		error: 0.401882792
+		threshold: -0.4549820707
+		polarity: 1
+		alpha: 0.1988131253
+	20: 
+		feature index: 149256
+		error: 0.3995532609
+		threshold: -0.7044983635
+		polarity: -1
+		alpha: 0.2036634341
+	21: 
+		feature index: 179892
+		error: 0.4043964939
+		threshold: 1.866028613
+		polarity: -1
+		alpha: 0.1935896851
+	22: 
+		feature index: 318242
+		error: 0.4047595106
+		threshold: 2.353248653
+		polarity: -1
+		alpha: 0.192836209
+	23: 
+		feature index: 149355
+		error: 0.4038942858
+		threshold: 14.91639615
+		polarity: 1
+		alpha: 0.1946324247
+	24: 
+		feature index: 154776
+		error: 0.4024107144
+		threshold: -0.584020017
+		polarity: -1
+		alpha: 0.19771523
+	25: 
+		feature index: 350316
+		error: 0.4041268756
+		threshold: -0.2136185033
+		polarity: 1
+		alpha: 0.1941494444
+	26: 
+		feature index: 213614
+		error: 0.400147994
+		threshold: -1.900891755
+		polarity: 1
+		alpha: 0.2024242523
+	27: 
+		feature index: 161828
+		error: 0.4028045193
+		threshold: -0.595268425
+		polarity: -1
+		alpha: 0.1968965589
+	28: 
+		feature index: 18006
+		error: 0.4026610154
+		threshold: 0.8148754952
+		polarity: 1
+		alpha: 0.1971948553
+	29: 
+		feature index: 198285
+		error: 0.4012007439
+		threshold: -0.8920517008
+		polarity: 1
+		alpha: 0.20023225
+	30: 
+		feature index: 121464
+		error: 0.4067020515
+		threshold: 51.97395609
+		polarity: 1
+		alpha: 0.1888079291
+	31: 
+		feature index: 70812
+		error: 0.4058429185
+		threshold: 0.8818709313
+		polarity: -1
+		alpha: 0.1905887734
+	32: 
+		feature index: 148276
+		error: 0.406701946
+		threshold: -0.6339474577
+		polarity: -1
+		alpha: 0.1888081477
+	33: 
+		feature index: 180658
+		error: 0.4079866532
+		threshold: 1.144779593
+		polarity: -1
+		alpha: 0.1861473594
+	34: 
+		feature index: 143544
+		error: 0.4073946624
+		threshold: 4.156193903
+		polarity: -1
+		alpha: 0.18737312
+	35: 
+		feature index: 103740
+		error: 0.4082385203
+		threshold: -0.2114012942
+		polarity: 1
+		alpha: 0.1856260178
+	36: 
+		feature index: 191819
+		error: 0.4086108706
+		threshold: -1.04597774
+		polarity: -1
+		alpha: 0.1848554698
+	37: 
+		feature index: 14507
+		error: 0.4024352446
+		threshold: 28.43815936
+		polarity: -1
+		alpha: 0.1976642271
+	38: 
+		feature index: 162210
+		error: 0.4063023615
+		threshold: -2.29184556
+		polarity: -1
+		alpha: 0.1896362742
+	39: 
+		feature index: 113652
+		error: 0.4076758878
+		threshold: 2.843562394
+		polarity: -1
+		alpha: 0.1867907529
+	40: 
+		feature index: 150963
+		error: 0.4105271886
+		threshold: -14.48648568
+		polarity: 1
+		alpha: 0.1808932189
+	41: 
+		feature index: 198288
+		error: 0.4099256826
+		threshold: 0.9248374224
+		polarity: -1
+		alpha: 0.1821363047
+	42: 
+		feature index: 160587
+		error: 0.4025573938
+		threshold: 2.062675507
+		polarity: 1
+		alpha: 0.1974102714
+	43: 
+		feature index: 43158
+		error: 0.4114406046
+		threshold: 0.3326116969
+		polarity: -1
+		alpha: 0.1790065886
+	44: 
+		feature index: 159892
+		error: 0.4100277181
+		threshold: 1.028775781
+		polarity: 1
+		alpha: 0.1819253966
+	45: 
+		feature index: 2856
+		error: 0.4070604408
+		threshold: -0.2757021263
+		polarity: 1
+		alpha: 0.1880653962
+	46: 
+		feature index: 16866
+		error: 0.4105023146
+		threshold: 0.5933047814
+		polarity: 1
+		alpha: 0.1809446132
+	47: 
+		feature index: 84085
+		error: 0.4107858905
+		threshold: 4.294957883
+		polarity: -1
+		alpha: 0.1803587501
+	48: 
+		feature index: 303571
+		error: 0.4093131987
+		threshold: 5.50416663
+		polarity: -1
+		alpha: 0.1834026499
+	49: 
+		feature index: 94768
+		error: 0.4084517501
+		threshold: 0.7134755952
+		polarity: -1
+		alpha: 0.1851847299
+	50: 
+		feature index: 158726
+		error: 0.41003991
+		threshold: 0.5719209736
+		polarity: 1
+		alpha: 0.181900197
+	51: 
+		feature index: 198631
+		error: 0.4110203044
+		threshold: 1.344671941
+		polarity: -1
+		alpha: 0.1798745474
+	52: 
+		feature index: 154112
+		error: 0.4066215417
+		threshold: -0.4794042397
+		polarity: -1
+		alpha: 0.1889747626
+	53: 
+		feature index: 213617
+		error: 0.4100816307
+		threshold: -2.60933778
+		polarity: 1
+		alpha: 0.1818139656
+	54: 
+		feature index: 35401
+		error: 0.4111763857
+		threshold: -1.435590032
+		polarity: -1
+		alpha: 0.1795521938
+	55: 
+		feature index: 216606
+		error: 0.4119954979
+		threshold: -1.189565853
+		polarity: 1
+		alpha: 0.1778610913
+	56: 
+		feature index: 141721
+		error: 0.4118830723
+		threshold: -8.146506509
+		polarity: 1
+		alpha: 0.1780931403
+	57: 
+		feature index: 215446
+		error: 0.4120284679
+		threshold: -0.7407798182
+		polarity: 1
+		alpha: 0.1777930442
+	58: 
+		feature index: 112113
+		error: 0.4128222106
+		threshold: 2.28569964
+		polarity: -1
+		alpha: 0.1761553173
+	59: 
+		feature index: 161352
+		error: 0.4049496726
+		threshold: -1.475214752
+		polarity: -1
+		alpha: 0.1924415957
+	60: 
+		feature index: 158971
+		error: 0.4118011078
+		threshold: 1.893723935
+		polarity: 1
+		alpha: 0.178262329
+	61: 
+		feature index: 218310
+		error: 0.4107441388
+		threshold: 4.354134023
+		polarity: -1
+		alpha: 0.1804450007
+	62: 
+		feature index: 150528
+		error: 0.4131540578
+		threshold: 0.7150135248
+		polarity: 1
+		alpha: 0.1754708957
+	63: 
+		feature index: 19803
+		error: 0.4147117416
+		threshold: -6.633555539
+		polarity: 1
+		alpha: 0.1722603976
+	64: 
+		feature index: 160851
+		error: 0.4149141428
+		threshold: 0.8651112206
+		polarity: 1
+		alpha: 0.1718434934
+	65: 
+		feature index: 148566
+		error: 0.4125761847
+		threshold: 0.5731809489
+		polarity: 1
+		alpha: 0.1766628413
+	66: 
+		feature index: 125240
+		error: 0.4097909394
+		threshold: 39.39597943
+		polarity: 1
+		alpha: 0.1824148441
+	67: 
+		feature index: 161540
+		error: 0.4148886207
+		threshold: 0.5464825469
+		polarity: 1
+		alpha: 0.1718960603
+	68: 
+		feature index: 102732
+		error: 0.4127613108
+		threshold: 0.6021619251
+		polarity: 1
+		alpha: 0.1762809383
+	69: 
+		feature index: 35247
+		error: 0.4113975396
+		threshold: 1.726898688
+		polarity: 1
+		alpha: 0.1790955095
+	70: 
+		feature index: 30255
+		error: 0.4102025891
+		threshold: 2.224283327
+		polarity: 1
+		alpha: 0.1815639745
+	71: 
+		feature index: 121068
+		error: 0.4103241963
+		threshold: -3.365315183
+		polarity: -1
+		alpha: 0.1813126653
+	72: 
+		feature index: 213614
+		error: 0.4124672218
+		threshold: 1.159831647
+		polarity: -1
+		alpha: 0.1768876484
+	73: 
+		feature index: 217927
+		error: 0.4122908402
+		threshold: -2.872975597
+		polarity: 1
+		alpha: 0.1772515881
+	74: 
+		feature index: 70837
+		error: 0.4125254868
+		threshold: 2.845891892
+		polarity: -1
+		alpha: 0.1767674367
+	75: 
+		feature index: 18196
+		error: 0.4142502718
+		threshold: 0.6427401425
+		polarity: 1
+		alpha: 0.1732111505
+	76: 
+		feature index: 154776
+		error: 0.4129999626
+		threshold: -0.619699828
+		polarity: -1
+		alpha: 0.1757886906
+	77: 
+		feature index: 3483
+		error: 0.4126692975
+		threshold: -8.215166209
+		polarity: -1
+		alpha: 0.1764707495
+	78: 
+		feature index: 98508
+		error: 0.4093931918
+		threshold: 40.61088464
+		polarity: -1
+		alpha: 0.1832372266
+	79: 
+		feature index: 106425
+		error: 0.406759684
+		threshold: -0.2305331284
+		polarity: 1
+		alpha: 0.1886885088
+	80: 
+		feature index: 192596
+		error: 0.4067983123
+		threshold: 1.904385778
+		polarity: -1
+		alpha: 0.1886084699
+	81: 
+		feature index: 43158
+		error: 0.4116970799
+		threshold: -0.2620939063
+		polarity: 1
+		alpha: 0.1784770747
+	82: 
+		feature index: 200869
+		error: 0.4122561343
+		threshold: -1.065001658
+		polarity: 1
+		alpha: 0.1773232046
+	83: 
+		feature index: 180612
+		error: 0.4111916754
+		threshold: 1.458630416
+		polarity: -1
+		alpha: 0.179520618
+	84: 
+		feature index: 23601
+		error: 0.4132526783
+		threshold: -1.734321338
+		polarity: -1
+		alpha: 0.1752675261
+	85: 
+		feature index: 187550
+		error: 0.4133313761
+		threshold: 1.1470604
+		polarity: 1
+		alpha: 0.1751052504
+
+Layer: 11
+	count of the previous-classifier: 68914
+	number of Classifier: 50
+	FALSE_POSITIVE_RATE: 0.767
+	DETECTION_RATE: 0.996
+	bias: 0.027
+	1: 
+		feature index: 179385
+		error: 0.2821774171
+		threshold: -23.98219333
+		polarity: -1
+		alpha: 0.4668432139
+	2: 
+		feature index: 217407
+		error: 0.3245240406
+		threshold: -9.699760378
+		polarity: -1
+		alpha: 0.3665289746
+	3: 
+		feature index: 203797
+		error: 0.3408967088
+		threshold: -3.608915216
+		polarity: -1
+		alpha: 0.3296503685
+	4: 
+		feature index: 213158
+		error: 0.3678066327
+		threshold: 2.143318636
+		polarity: 1
+		alpha: 0.2708189815
+	5: 
+		feature index: 99850
+		error: 0.3808778113
+		threshold: 9.603654235
+		polarity: 1
+		alpha: 0.2429120158
+	6: 
+		feature index: 161366
+		error: 0.3866696307
+		threshold: 0.7432391449
+		polarity: -1
+		alpha: 0.2306665341
+	7: 
+		feature index: 202824
+		error: 0.3897340456
+		threshold: -2.046390371
+		polarity: -1
+		alpha: 0.2242151404
+	8: 
+		feature index: 190809
+		error: 0.3902554004
+		threshold: -1.796676814
+		polarity: -1
+		alpha: 0.2231193914
+	9: 
+		feature index: 106405
+		error: 0.3904055385
+		threshold: 1.152168505
+		polarity: -1
+		alpha: 0.2228039389
+	10: 
+		feature index: 143451
+		error: 0.3974223468
+		threshold: -12.00296103
+		polarity: 1
+		alpha: 0.2081084906
+	11: 
+		feature index: 17308
+		error: 0.3973186548
+		threshold: -2.486157417
+		polarity: 1
+		alpha: 0.2083249961
+	12: 
+		feature index: 113639
+		error: 0.400673811
+		threshold: -0.467651671
+		polarity: 1
+		alpha: 0.2013291742
+	13: 
+		feature index: 109808
+		error: 0.4018150155
+		threshold: -2.599635209
+		polarity: -1
+		alpha: 0.1989541113
+	14: 
+		feature index: 106297
+		error: 0.3955547862
+		threshold: 0.2482647667
+		polarity: 1
+		alpha: 0.2120108669
+	15: 
+		feature index: 214577
+		error: 0.3944709034
+		threshold: -1.40404106
+		polarity: 1
+		alpha: 0.2142786169
+	16: 
+		feature index: 180489
+		error: 0.4044134914
+		threshold: -0.8579365464
+		polarity: 1
+		alpha: 0.1935544003
+	17: 
+		feature index: 121464
+		error: 0.4058201852
+		threshold: 52.60131863
+		polarity: 1
+		alpha: 0.1906359121
+	18: 
+		feature index: 217935
+		error: 0.4033257905
+		threshold: 2.6952314
+		polarity: -1
+		alpha: 0.1958133015
+	19: 
+		feature index: 9939
+		error: 0.4016792102
+		threshold: -2.828182987
+		polarity: -1
+		alpha: 0.1992366312
+	20: 
+		feature index: 212516
+		error: 0.404226829
+		threshold: 1.790553097
+		polarity: -1
+		alpha: 0.1939419155
+	21: 
+		feature index: 154266
+		error: 0.4037827277
+		threshold: -2.006399733
+		polarity: -1
+		alpha: 0.1948641106
+	22: 
+		feature index: 150773
+		error: 0.400907425
+		threshold: 11.28618599
+		polarity: -1
+		alpha: 0.2008427975
+	23: 
+		feature index: 202329
+		error: 0.403690807
+		threshold: -1.601711422
+		polarity: 1
+		alpha: 0.1950550285
+	24: 
+		feature index: 54897
+		error: 0.404370872
+		threshold: -1.087573265
+		polarity: -1
+		alpha: 0.1936428739
+	25: 
+		feature index: 192596
+		error: 0.4072017352
+		threshold: 1.611646336
+		polarity: -1
+		alpha: 0.1877727101
+	26: 
+		feature index: 154776
+		error: 0.4027595106
+		threshold: -0.5906480387
+		polarity: -1
+		alpha: 0.1969901131
+	27: 
+		feature index: 161775
+		error: 0.4039386289
+		threshold: -10.70938552
+		polarity: -1
+		alpha: 0.1945403379
+	28: 
+		feature index: 150773
+		error: 0.407752606
+		threshold: -13.73743803
+		polarity: 1
+		alpha: 0.1866319051
+	29: 
+		feature index: 180489
+		error: 0.4069412323
+		threshold: 0.869953685
+		polarity: -1
+		alpha: 0.1883123569
+	30: 
+		feature index: 60495
+		error: 0.4066978091
+		threshold: -2.05045528
+		polarity: -1
+		alpha: 0.1888167201
+	31: 
+		feature index: 198951
+		error: 0.4079684002
+		threshold: 0.5682020297
+		polarity: -1
+		alpha: 0.1861851453
+	32: 
+		feature index: 149569
+		error: 0.4080160062
+		threshold: 10.13161086
+		polarity: -1
+		alpha: 0.1860865963
+	33: 
+		feature index: 148276
+		error: 0.4088560202
+		threshold: -0.6590258714
+		polarity: -1
+		alpha: 0.1843482716
+	34: 
+		feature index: 180080
+		error: 0.4062302955
+		threshold: -0.6865030044
+		polarity: 1
+		alpha: 0.1897856561
+	35: 
+		feature index: 200869
+		error: 0.4061759964
+		threshold: 1.187505249
+		polarity: -1
+		alpha: 0.1898982154
+	36: 
+		feature index: 72816
+		error: 0.4086527631
+		threshold: -2.014575494
+		polarity: -1
+		alpha: 0.1847687904
+	37: 
+		feature index: 179891
+		error: 0.4080836706
+		threshold: -1.988155533
+		polarity: 1
+		alpha: 0.1859465305
+	38: 
+		feature index: 149256
+		error: 0.4116320684
+		threshold: -0.767118072
+		polarity: -1
+		alpha: 0.1786112869
+	39: 
+		feature index: 214511
+		error: 0.4082464562
+		threshold: 1.430905604
+		polarity: -1
+		alpha: 0.1856095928
+	40: 
+		feature index: 113653
+		error: 0.4094661957
+		threshold: 3.179144999
+		polarity: -1
+		alpha: 0.1830862656
+	41: 
+		feature index: 157985
+		error: 0.4067245105
+		threshold: 3.090541538
+		polarity: 1
+		alpha: 0.1887613911
+	42: 
+		feature index: 148376
+		error: 0.4077750104
+		threshold: 0.5989641332
+		polarity: 1
+		alpha: 0.1865855177
+	43: 
+		feature index: 213422
+		error: 0.4073640613
+		threshold: 0.6764065505
+		polarity: -1
+		alpha: 0.1874364971
+	44: 
+		feature index: 41516
+		error: 0.408723296
+		threshold: 0.756287035
+		polarity: -1
+		alpha: 0.1846228575
+	45: 
+		feature index: 141755
+		error: 0.4094958212
+		threshold: -6.678717185
+		polarity: -1
+		alpha: 0.1830250069
+	46: 
+		feature index: 158012
+		error: 0.4123070446
+		threshold: 1.921642301
+		polarity: 1
+		alpha: 0.1772181506
+	47: 
+		feature index: 36841
+		error: 0.4154804651
+		threshold: -7.877376366
+		polarity: -1
+		alpha: 0.1706773021
+	48: 
+		feature index: 157962
+		error: 0.4092695193
+		threshold: 0.4273166963
+		polarity: -1
+		alpha: 0.1834929817
+	49: 
+		feature index: 121075
+		error: 0.4131292905
+		threshold: -3.134665696
+		polarity: -1
+		alpha: 0.1755219716
+	50: 
+		feature index: 106684
+		error: 0.4078429224
+		threshold: 37.36614963
+		polarity: -1
+		alpha: 0.1864449136
+
+Layer: 12
+	count of the previous-classifier: 39208
+	number of Classifier: 85
+	FALSE_POSITIVE_RATE: 0.826
+	DETECTION_RATE: 0.996
+	bias: 0.125
+	1: 
+		feature index: 114763
+		error: 0.2925057451
+		threshold: 21.73413453
+		polarity: 1
+		alpha: 0.4416226007
+	2: 
+		feature index: 160478
+		error: 0.3319978683
+		threshold: -5.558056171
+		polarity: -1
+		alpha: 0.3495814084
+	3: 
+		feature index: 213116
+		error: 0.3612927021
+		threshold: 2.548754419
+		polarity: 1
+		alpha: 0.2848789238
+	4: 
+		feature index: 47678
+		error: 0.3692390933
+		threshold: -7.718850558
+		polarity: -1
+		alpha: 0.2677412477
+	5: 
+		feature index: 106301
+		error: 0.3774949903
+		threshold: 0.9083884454
+		polarity: 1
+		alpha: 0.2500971892
+	6: 
+		feature index: 186109
+		error: 0.3828078995
+		threshold: -4.125101705
+		polarity: -1
+		alpha: 0.238823513
+	7: 
+		feature index: 161775
+		error: 0.3821107546
+		threshold: -10.4269269
+		polarity: -1
+		alpha: 0.2402993633
+	8: 
+		feature index: 141623
+		error: 0.3869750266
+		threshold: -14.82573884
+		polarity: -1
+		alpha: 0.2300227573
+	9: 
+		feature index: 154065
+		error: 0.3956687177
+		threshold: 1.649998317
+		polarity: -1
+		alpha: 0.2117726192
+	10: 
+		feature index: 125126
+		error: 0.3974297
+		threshold: 39.45381187
+		polarity: 1
+		alpha: 0.2080931379
+	11: 
+		feature index: 150528
+		error: 0.3913790294
+		threshold: 0.7827919915
+		polarity: 1
+		alpha: 0.2207596094
+	12: 
+		feature index: 197557
+		error: 0.3943541328
+		threshold: 1.791758609
+		polarity: -1
+		alpha: 0.214523059
+	13: 
+		feature index: 143493
+		error: 0.3947913188
+		threshold: -2.450656996
+		polarity: -1
+		alpha: 0.2136080039
+	14: 
+		feature index: 211620
+		error: 0.3937973441
+		threshold: 1.931531641
+		polarity: -1
+		alpha: 0.215688962
+	15: 
+		feature index: 212498
+		error: 0.3980733109
+		threshold: 1.608770158
+		polarity: -1
+		alpha: 0.2067497362
+	16: 
+		feature index: 158728
+		error: 0.3989587147
+		threshold: 1.859351126
+		polarity: 1
+		alpha: 0.2049028435
+	17: 
+		feature index: 214577
+		error: 0.3983533861
+		threshold: -1.322272674
+		polarity: 1
+		alpha: 0.2061653685
+	18: 
+		feature index: 125126
+		error: 0.402453512
+		threshold: 40.3661784
+		polarity: 1
+		alpha: 0.1976262465
+	19: 
+		feature index: 109944
+		error: 0.3922399713
+		threshold: -2.920286746
+		polarity: -1
+		alpha: 0.2189531452
+	20: 
+		feature index: 161143
+		error: 0.4013520769
+		threshold: -1.230608334
+		polarity: -1
+		alpha: 0.1999173057
+	21: 
+		feature index: 149176
+		error: 0.4038652961
+		threshold: -0.5589472416
+		polarity: -1
+		alpha: 0.194692629
+	22: 
+		feature index: 153696
+		error: 0.405304365
+		threshold: 0.6602464772
+		polarity: 1
+		alpha: 0.1917057168
+	23: 
+		feature index: 210436
+		error: 0.4057949517
+		threshold: 1.821938334
+		polarity: -1
+		alpha: 0.1906882361
+	24: 
+		feature index: 214514
+		error: 0.4070798579
+		threshold: 1.532490655
+		polarity: -1
+		alpha: 0.1880251726
+	25: 
+		feature index: 325156
+		error: 0.4072603816
+		threshold: 0.01659856654
+		polarity: 1
+		alpha: 0.1876512356
+	26: 
+		feature index: 3442
+		error: 0.4058457043
+		threshold: -5.270721145
+		polarity: -1
+		alpha: 0.190582997
+	27: 
+		feature index: 70848
+		error: 0.4096666145
+		threshold: 1.285525418
+		polarity: -1
+		alpha: 0.182671872
+	28: 
+		feature index: 214389
+		error: 0.4104076189
+		threshold: -4.855434179
+		polarity: 1
+		alpha: 0.1811402803
+	29: 
+		feature index: 43195
+		error: 0.4092783979
+		threshold: -1.572713523
+		polarity: -1
+		alpha: 0.1834746201
+	30: 
+		feature index: 112568
+		error: 0.4106392878
+		threshold: -1.892356236
+		polarity: -1
+		alpha: 0.1806616135
+	31: 
+		feature index: 180274
+		error: 0.4075402272
+		threshold: -1.404871561
+		polarity: 1
+		alpha: 0.187071666
+	32: 
+		feature index: 101323
+		error: 0.4091158299
+		threshold: -1.650343587
+		polarity: 1
+		alpha: 0.1838108449
+	33: 
+		feature index: 180708
+		error: 0.4093933696
+		threshold: 1.671883459
+		polarity: -1
+		alpha: 0.1832368591
+	34: 
+		feature index: 142651
+		error: 0.4107184714
+		threshold: -1.529478467
+		polarity: 1
+		alpha: 0.1804980256
+	35: 
+		feature index: 211600
+		error: 0.4091636638
+		threshold: -2.582425857
+		polarity: 1
+		alpha: 0.1837119101
+	36: 
+		feature index: 43164
+		error: 0.4092794069
+		threshold: 0.381188442
+		polarity: -1
+		alpha: 0.1834725333
+	37: 
+		feature index: 121068
+		error: 0.4108744801
+		threshold: -1.469079844
+		polarity: -1
+		alpha: 0.1801757506
+	38: 
+		feature index: 304823
+		error: 0.4113418767
+		threshold: -10.13190364
+		polarity: 1
+		alpha: 0.179210447
+	39: 
+		feature index: 302524
+		error: 0.4103734055
+		threshold: 7.938825877
+		polarity: -1
+		alpha: 0.1812109777
+	40: 
+		feature index: 150564
+		error: 0.410373131
+		threshold: 0.7390692908
+		polarity: 1
+		alpha: 0.181211545
+	41: 
+		feature index: 205339
+		error: 0.4079645489
+		threshold: 1.134500559
+		polarity: -1
+		alpha: 0.1861931181
+	42: 
+		feature index: 89664
+		error: 0.4100391032
+		threshold: 0.9209765046
+		polarity: -1
+		alpha: 0.1819018647
+	43: 
+		feature index: 121464
+		error: 0.4102654906
+		threshold: 52.90877625
+		polarity: 1
+		alpha: 0.1814339818
+	44: 
+		feature index: 203669
+		error: 0.4098165521
+		threshold: -2.435344831
+		polarity: -1
+		alpha: 0.1823618959
+	45: 
+		feature index: 187550
+		error: 0.4114980744
+		threshold: 1.20637721
+		polarity: 1
+		alpha: 0.1788879291
+	46: 
+		feature index: 142896
+		error: 0.4116411075
+		threshold: -0.4696793337
+		polarity: 1
+		alpha: 0.1785926259
+	47: 
+		feature index: 160593
+		error: 0.4100122357
+		threshold: -1.044366296
+		polarity: -1
+		alpha: 0.1819573979
+	48: 
+		feature index: 210436
+		error: 0.4122888201
+		threshold: -1.982346657
+		polarity: 1
+		alpha: 0.1772557565
+	49: 
+		feature index: 156361
+		error: 0.4111200604
+		threshold: 1.1615797
+		polarity: 1
+		alpha: 0.1796685177
+	50: 
+		feature index: 112988
+		error: 0.4092132381
+		threshold: -0.98048394
+		polarity: 1
+		alpha: 0.1836093793
+	51: 
+		feature index: 179892
+		error: 0.4096727665
+		threshold: -2.138335377
+		polarity: 1
+		alpha: 0.1826591529
+	52: 
+		feature index: 193396
+		error: 0.4113786348
+		threshold: -0.8183173817
+		polarity: 1
+		alpha: 0.1791345453
+	53: 
+		feature index: 213589
+		error: 0.4100538998
+		threshold: -5.94774703
+		polarity: 1
+		alpha: 0.1818712816
+	54: 
+		feature index: 200869
+		error: 0.4144209499
+		threshold: -1.078853638
+		polarity: 1
+		alpha: 0.1728594713
+	55: 
+		feature index: 187588
+		error: 0.4115760199
+		threshold: 0.855527791
+		polarity: 1
+		alpha: 0.1787270005
+	56: 
+		feature index: 180345
+		error: 0.4134448641
+		threshold: 0.8843582365
+		polarity: -1
+		alpha: 0.174871253
+	57: 
+		feature index: 180346
+		error: 0.4133095994
+		threshold: -1.38409934
+		polarity: 1
+		alpha: 0.1751501533
+	58: 
+		feature index: 25904
+		error: 0.4143545066
+		threshold: -0.6841168167
+		polarity: -1
+		alpha: 0.1729963715
+	59: 
+		feature index: 218016
+		error: 0.4150944509
+		threshold: -1.948883101
+		polarity: 1
+		alpha: 0.1714721464
+	60: 
+		feature index: 150402
+		error: 0.4133033099
+		threshold: 0.8389154274
+		polarity: 1
+		alpha: 0.1751631221
+	61: 
+		feature index: 196532
+		error: 0.4158136196
+		threshold: -2.184091145
+		polarity: 1
+		alpha: 0.1699914732
+	62: 
+		feature index: 205339
+		error: 0.4144679501
+		threshold: 1.223374995
+		polarity: -1
+		alpha: 0.1727626355
+	63: 
+		feature index: 150484
+		error: 0.4147644582
+		threshold: 7.083023391
+		polarity: 1
+		alpha: 0.1721518067
+	64: 
+		feature index: 152224
+		error: 0.4122808831
+		threshold: -3.399543827
+		polarity: 1
+		alpha: 0.1772721347
+	65: 
+		feature index: 110052
+		error: 0.412471127
+		threshold: -2.079016292
+		polarity: -1
+		alpha: 0.1768795911
+	66: 
+		feature index: 150863
+		error: 0.4131392037
+		threshold: 8.355461273
+		polarity: -1
+		alpha: 0.1755015282
+	67: 
+		feature index: 205339
+		error: 0.4119663121
+		threshold: -1.160063514
+		polarity: 1
+		alpha: 0.1779213296
+	68: 
+		feature index: 160742
+		error: 0.4100615583
+		threshold: -1.613762472
+		polarity: -1
+		alpha: 0.1818554524
+	69: 
+		feature index: 149772
+		error: 0.4155629288
+		threshold: -0.6850568144
+		polarity: -1
+		alpha: 0.1705075283
+	70: 
+		feature index: 199061
+		error: 0.4134938459
+		threshold: 0.9631790257
+		polarity: 1
+		alpha: 0.1747702648
+	71: 
+		feature index: 347095
+		error: 0.4162385213
+		threshold: 7.318653727
+		polarity: 1
+		alpha: 0.169117004
+	72: 
+		feature index: 149176
+		error: 0.4120231267
+		threshold: -0.5667937923
+		polarity: -1
+		alpha: 0.1778040678
+	73: 
+		feature index: 215874
+		error: 0.4143610615
+		threshold: -1.821767941
+		polarity: 1
+		alpha: 0.1729828653
+	74: 
+		feature index: 315978
+		error: 0.411741923
+		threshold: -12.1955818
+		polarity: -1
+		alpha: 0.1783845027
+	75: 
+		feature index: 106525
+		error: 0.4049839479
+		threshold: 2.279447251
+		polarity: -1
+		alpha: 0.192370476
+	76: 
+		feature index: 218163
+		error: 0.4133191945
+		threshold: 3.15013356
+		polarity: 1
+		alpha: 0.1751303685
+	77: 
+		feature index: 217932
+		error: 0.410336962
+		threshold: 1.66302826
+		polarity: -1
+		alpha: 0.1812862854
+	78: 
+		feature index: 156362
+		error: 0.4169244616
+		threshold: 1.909721956
+		polarity: 1
+		alpha: 0.1677058442
+	79: 
+		feature index: 3171
+		error: 0.4085622443
+		threshold: -0.5214937816
+		polarity: 1
+		alpha: 0.1849560855
+	80: 
+		feature index: 107480
+		error: 0.4122681936
+		threshold: 1.685375282
+		polarity: 1
+		alpha: 0.1772983198
+	81: 
+		feature index: 43158
+		error: 0.4148595888
+		threshold: 0.3485245055
+		polarity: -1
+		alpha: 0.1719558574
+	82: 
+		feature index: 160388
+		error: 0.4143890543
+		threshold: -1.115901645
+		polarity: -1
+		alpha: 0.1729251883
+	83: 
+		feature index: 179266
+		error: 0.4164229359
+		threshold: 2.735579316
+		polarity: 1
+		alpha: 0.1687375492
+	84: 
+		feature index: 153696
+		error: 0.4146321916
+		threshold: 0.6827027729
+		polarity: 1
+		alpha: 0.1724242701
+	85: 
+		feature index: 75555
+		error: 0.4110799834
+		threshold: 7.118794272
+		polarity: 1
+		alpha: 0.1797512884
+
+Layer: 13
+	count of the previous-classifier: 34817
+	number of Classifier: 50
+	FALSE_POSITIVE_RATE: 0.949
+	DETECTION_RATE: 0.996
+	bias: 0.181
+	1: 
+		feature index: 75555
+		error: 0.2966613273
+		threshold: 7.581869931
+		polarity: 1
+		alpha: 0.4316236765
+	2: 
+		feature index: 163293
+		error: 0.3120762876
+		threshold: -30.29215746
+		polarity: -1
+		alpha: 0.3952151397
+	3: 
+		feature index: 84920
+		error: 0.3417874986
+		threshold: 1.321870396
+		polarity: 1
+		alpha: 0.3276693174
+	4: 
+		feature index: 352249
+		error: 0.3654083132
+		threshold: 2.178722931
+		polarity: 1
+		alpha: 0.2759831922
+	5: 
+		feature index: 109944
+		error: 0.3764345802
+		threshold: -3.086248265
+		polarity: -1
+		alpha: 0.2523547045
+	6: 
+		feature index: 133892
+		error: 0.3858338731
+		threshold: 2.287324235
+		polarity: 1
+		alpha: 0.2324292802
+	7: 
+		feature index: 144933
+		error: 0.3883960412
+		threshold: -13.47626224
+		polarity: -1
+		alpha: 0.2270297016
+	8: 
+		feature index: 142735
+		error: 0.3948715712
+		threshold: 8.59669519
+		polarity: 1
+		alpha: 0.2134400693
+	9: 
+		feature index: 159448
+		error: 0.4015455943
+		threshold: 1.552975743
+		polarity: 1
+		alpha: 0.1995146271
+	10: 
+		feature index: 198611
+		error: 0.3996260425
+		threshold: 1.229591629
+		polarity: -1
+		alpha: 0.2035117537
+	11: 
+		feature index: 17208
+		error: 0.3916735537
+		threshold: 0.6082735934
+		polarity: 1
+		alpha: 0.2201414671
+	12: 
+		feature index: 190809
+		error: 0.4013039776
+		threshold: -2.023760475
+		polarity: -1
+		alpha: 0.2000174027
+	13: 
+		feature index: 161815
+		error: 0.3996693202
+		threshold: -6.228504359
+		polarity: -1
+		alpha: 0.2034215654
+	14: 
+		feature index: 181885
+		error: 0.3984354003
+		threshold: -1.624159483
+		polarity: 1
+		alpha: 0.2059942747
+	15: 
+		feature index: 214574
+		error: 0.402373774
+		threshold: -0.9585764151
+		polarity: 1
+		alpha: 0.1977920379
+	16: 
+		feature index: 125132
+		error: 0.4039271023
+		threshold: 42.60466026
+		polarity: 1
+		alpha: 0.1945642746
+	17: 
+		feature index: 74268
+		error: 0.4032711386
+		threshold: 1.24658412
+		polarity: -1
+		alpha: 0.1959268527
+	18: 
+		feature index: 149256
+		error: 0.4043946936
+		threshold: -0.7612259746
+		polarity: -1
+		alpha: 0.1935934224
+	19: 
+		feature index: 42945
+		error: 0.4027125442
+		threshold: -0.6515092618
+		polarity: 1
+		alpha: 0.1970877402
+	20: 
+		feature index: 162136
+		error: 0.402878965
+		threshold: -0.5036618447
+		polarity: 1
+		alpha: 0.1967418249
+	21: 
+		feature index: 211874
+		error: 0.4061606105
+		threshold: 0.6857793813
+		polarity: -1
+		alpha: 0.1899301104
+	22: 
+		feature index: 70848
+		error: 0.4054855552
+		threshold: 1.30243366
+		polarity: -1
+		alpha: 0.1913298813
+	23: 
+		feature index: 150024
+		error: 0.4032445343
+		threshold: -0.7046022038
+		polarity: -1
+		alpha: 0.1959821307
+	24: 
+		feature index: 155274
+		error: 0.4042770321
+		threshold: -1.344935488
+		polarity: -1
+		alpha: 0.193837687
+	25: 
+		feature index: 218540
+		error: 0.4096610609
+		threshold: -1.673913873
+		polarity: 1
+		alpha: 0.1826833539
+	26: 
+		feature index: 107490
+		error: 0.4101821268
+		threshold: 3.057353498
+		polarity: 1
+		alpha: 0.1816062634
+	27: 
+		feature index: 108844
+		error: 0.4070644733
+		threshold: 2.158400412
+		polarity: 1
+		alpha: 0.1880570425
+	28: 
+		feature index: 110418
+		error: 0.4043139311
+		threshold: 2.167663869
+		polarity: -1
+		alpha: 0.1937610825
+	29: 
+		feature index: 180563
+		error: 0.4092590051
+		threshold: 1.455386597
+		polarity: -1
+		alpha: 0.1835147262
+	30: 
+		feature index: 180560
+		error: 0.4065659026
+		threshold: -0.5811816795
+		polarity: 1
+		alpha: 0.1890900646
+	31: 
+		feature index: 148376
+		error: 0.4108724891
+		threshold: 0.5661749932
+		polarity: 1
+		alpha: 0.1801798633
+	32: 
+		feature index: 5296
+		error: 0.4048017613
+		threshold: 0.3436572112
+		polarity: -1
+		alpha: 0.1927485277
+	33: 
+		feature index: 188952
+		error: 0.4095297989
+		threshold: 4.185549456
+		polarity: 1
+		alpha: 0.1829547504
+	34: 
+		feature index: 217671
+		error: 0.4126487419
+		threshold: -3.018718874
+		polarity: 1
+		alpha: 0.1765131545
+	35: 
+		feature index: 162092
+		error: 0.4113554992
+		threshold: -0.6759570092
+		polarity: -1
+		alpha: 0.1791823175
+	36: 
+		feature index: 110952
+		error: 0.4114972284
+		threshold: 2.764730908
+		polarity: 1
+		alpha: 0.1788896758
+	37: 
+		feature index: 217606
+		error: 0.4120578219
+		threshold: 2.426039312
+		polarity: -1
+		alpha: 0.1777324613
+	38: 
+		feature index: 217620
+		error: 0.4113269001
+		threshold: -2.1859247
+		polarity: 1
+		alpha: 0.1792413726
+	39: 
+		feature index: 214574
+		error: 0.4108285677
+		threshold: 1.037720174
+		polarity: -1
+		alpha: 0.1802705903
+	40: 
+		feature index: 218163
+		error: 0.4127003791
+		threshold: 3.360150108
+		polarity: 1
+		alpha: 0.1764066309
+	41: 
+		feature index: 145155
+		error: 0.4115167152
+		threshold: -7.245506377
+		polarity: 1
+		alpha: 0.178849442
+	42: 
+		feature index: 214379
+		error: 0.4125705211
+		threshold: -2.620752101
+		polarity: 1
+		alpha: 0.1766745258
+	43: 
+		feature index: 111852
+		error: 0.4099511401
+		threshold: -2.174967966
+		polarity: -1
+		alpha: 0.1820836824
+	44: 
+		feature index: 180081
+		error: 0.4134064768
+		threshold: -1.188353379
+		polarity: 1
+		alpha: 0.1749504005
+	45: 
+		feature index: 160586
+		error: 0.411876896
+		threshold: 1.672706353
+		polarity: 1
+		alpha: 0.178105889
+	46: 
+		feature index: 203729
+		error: 0.4109469843
+		threshold: -1.245548556
+		polarity: -1
+		alpha: 0.1800259876
+	47: 
+		feature index: 125246
+		error: 0.4056177979
+		threshold: 42.76911094
+		polarity: 1
+		alpha: 0.1910556093
+	48: 
+		feature index: 202329
+		error: 0.4033542706
+		threshold: 2.116874988
+		polarity: -1
+		alpha: 0.1957541299
+	49: 
+		feature index: 210448
+		error: 0.4063197204
+		threshold: 1.408189358
+		polarity: -1
+		alpha: 0.1896002932
+	50: 
+		feature index: 214458
+		error: 0.4101498028
+		threshold: -3.394223585
+		polarity: 1
+		alpha: 0.181673068
+
+Layer: 14
+	count of the previous-classifier: 9073
+	number of Classifier: 190
+	FALSE_POSITIVE_RATE: 0.608
+	DETECTION_RATE: 0.996
+	bias: 0.012
+	1: 
+		feature index: 75555
+		error: 0.2958335521
+		threshold: 7.586791204
+		polarity: 1
+		alpha: 0.4336088939
+	2: 
+		feature index: 162588
+		error: 0.3182137547
+		threshold: -30.08425796
+		polarity: -1
+		alpha: 0.3809964219
+	3: 
+		feature index: 109820
+		error: 0.3364639681
+		threshold: -3.166908538
+		polarity: -1
+		alpha: 0.3395460465
+	4: 
+		feature index: 161356
+		error: 0.3668847815
+		threshold: -2.030198768
+		polarity: -1
+		alpha: 0.2728022868
+	5: 
+		feature index: 85290
+		error: 0.3794513749
+		threshold: 0.6049858614
+		polarity: 1
+		alpha: 0.2459387535
+	6: 
+		feature index: 197989
+		error: 0.3886501352
+		threshold: 1.53429035
+		polarity: -1
+		alpha: 0.226494931
+	7: 
+		feature index: 144933
+		error: 0.393621778
+		threshold: -14.14539422
+		polarity: -1
+		alpha: 0.2160567131
+	8: 
+		feature index: 310828
+		error: 0.3931229618
+		threshold: 36.30270162
+		polarity: 1
+		alpha: 0.2171018773
+	9: 
+		feature index: 161773
+		error: 0.39546259
+		threshold: -10.02892897
+		polarity: -1
+		alpha: 0.2122036801
+	10: 
+		feature index: 60915
+		error: 0.396770924
+		threshold: -0.6596455041
+		polarity: -1
+		alpha: 0.2094689609
+	11: 
+		feature index: 143303
+		error: 0.3962169699
+		threshold: 16.21491471
+		polarity: 1
+		alpha: 0.2106264734
+	12: 
+		feature index: 217671
+		error: 0.3985629182
+		threshold: -3.044175792
+		polarity: 1
+		alpha: 0.2057282772
+	13: 
+		feature index: 303541
+		error: 0.3982749912
+		threshold: -25.56178258
+		polarity: 1
+		alpha: 0.2063289227
+	14: 
+		feature index: 156263
+		error: 0.4019248995
+		threshold: 2.937798646
+		polarity: 1
+		alpha: 0.1987255392
+	15: 
+		feature index: 309163
+		error: 0.3992180408
+		threshold: -6.215073798
+		polarity: -1
+		alpha: 0.2043621681
+	16: 
+		feature index: 217614
+		error: 0.3998124895
+		threshold: -1.6865329
+		polarity: 1
+		alpha: 0.2031232315
+	17: 
+		feature index: 217614
+		error: 0.4057433018
+		threshold: 1.318353098
+		polarity: -1
+		alpha: 0.1907953398
+	18: 
+		feature index: 149256
+		error: 0.4056869824
+		threshold: -0.7257001818
+		polarity: -1
+		alpha: 0.1909121316
+	19: 
+		feature index: 121464
+		error: 0.3998534769
+		threshold: 53.23971159
+		polarity: 1
+		alpha: 0.2030378291
+	20: 
+		feature index: 200840
+		error: 0.396979366
+		threshold: -1.323909662
+		polarity: 1
+		alpha: 0.2090335552
+	21: 
+		feature index: 150024
+		error: 0.4035381151
+		threshold: -0.7082509744
+		polarity: -1
+		alpha: 0.1953721985
+	22: 
+		feature index: 217671
+		error: 0.4048822561
+		threshold: 3.036619691
+		polarity: -1
+		alpha: 0.1925814879
+	23: 
+		feature index: 113661
+		error: 0.4068665677
+		threshold: 2.192146024
+		polarity: -1
+		alpha: 0.1884670488
+	24: 
+		feature index: 198559
+		error: 0.4070421174
+		threshold: 0.9438751101
+		polarity: -1
+		alpha: 0.1881033548
+	25: 
+		feature index: 157227
+		error: 0.4097644356
+		threshold: -2.367632886
+		polarity: -1
+		alpha: 0.1824696358
+	26: 
+		feature index: 17307
+		error: 0.4120932274
+		threshold: -2.805602664
+		polarity: 1
+		alpha: 0.1776593908
+	27: 
+		feature index: 111240
+		error: 0.4120094093
+		threshold: -0.3425482164
+		polarity: 1
+		alpha: 0.1778323791
+	28: 
+		feature index: 150564
+		error: 0.4085923352
+		threshold: 0.7943166376
+		polarity: 1
+		alpha: 0.1848938222
+	29: 
+		feature index: 179892
+		error: 0.4116907801
+		threshold: -2.174341686
+		polarity: 1
+		alpha: 0.1784900801
+	30: 
+		feature index: 82707
+		error: 0.4140430339
+		threshold: -16.39905943
+		polarity: 1
+		alpha: 0.1736382176
+	31: 
+		feature index: 85585
+		error: 0.4097712075
+		threshold: 16.15140354
+		polarity: -1
+		alpha: 0.182455636
+	32: 
+		feature index: 148376
+		error: 0.4125974885
+		threshold: 0.5730539838
+		polarity: 1
+		alpha: 0.1766188904
+	33: 
+		feature index: 121471
+		error: 0.4130957621
+		threshold: 57.26815811
+		polarity: 1
+		alpha: 0.1755911163
+	34: 
+		feature index: 180612
+		error: 0.4153174083
+		threshold: -1.920354094
+		polarity: 1
+		alpha: 0.1710130272
+	35: 
+		feature index: 150024
+		error: 0.4119953594
+		threshold: 0.6338109894
+		polarity: 1
+		alpha: 0.1778613772
+	36: 
+		feature index: 203689
+		error: 0.4144318478
+		threshold: -1.457668357
+		polarity: -1
+		alpha: 0.1728370177
+	37: 
+		feature index: 162150
+		error: 0.4082332228
+		threshold: -0.4015709573
+		polarity: 1
+		alpha: 0.1856369821
+	38: 
+		feature index: 103620
+		error: 0.4148604414
+		threshold: 0.9160776843
+		polarity: -1
+		alpha: 0.1719541014
+	39: 
+		feature index: 179889
+		error: 0.4132108752
+		threshold: 0.9906226984
+		polarity: -1
+		alpha: 0.1753537282
+	40: 
+		feature index: 214574
+		error: 0.4159553172
+		threshold: -0.9250352574
+		polarity: 1
+		alpha: 0.1696998238
+	41: 
+		feature index: 216264
+		error: 0.4145854509
+		threshold: 5.177435815
+		polarity: 1
+		alpha: 0.1725205598
+	42: 
+		feature index: 6746
+		error: 0.4169366478
+		threshold: -1.351378611
+		polarity: -1
+		alpha: 0.1676807798
+	43: 
+		feature index: 210436
+		error: 0.4158670741
+		threshold: 1.918689797
+		polarity: -1
+		alpha: 0.169881447
+	44: 
+		feature index: 158733
+		error: 0.4145817994
+		threshold: -1.830369791
+		polarity: -1
+		alpha: 0.1725280825
+	45: 
+		feature index: 180563
+		error: 0.4129539189
+		threshold: 1.368615441
+		polarity: -1
+		alpha: 0.1758836546
+	46: 
+		feature index: 161935
+		error: 0.4150892099
+		threshold: 7.896134426
+		polarity: 1
+		alpha: 0.1714829397
+	47: 
+		feature index: 334248
+		error: 0.4169364272
+		threshold: -0.0004802868975
+		polarity: 1
+		alpha: 0.1676812336
+	48: 
+		feature index: 318442
+		error: 0.4164117837
+		threshold: -1.486589079
+		polarity: 1
+		alpha: 0.1687604948
+	49: 
+		feature index: 110400
+		error: 0.4170218984
+		threshold: 0.4671763529
+		polarity: -1
+		alpha: 0.1675054448
+	50: 
+		feature index: 159932
+		error: 0.4169578663
+		threshold: 0.5407430656
+		polarity: 1
+		alpha: 0.1676371389
+	51: 
+		feature index: 318436
+		error: 0.4153250287
+		threshold: 1.083071186
+		polarity: -1
+		alpha: 0.1709973365
+	52: 
+		feature index: 60330
+		error: 0.4165959769
+		threshold: -2.992493882
+		polarity: -1
+		alpha: 0.1683815408
+	53: 
+		feature index: 114835
+		error: 0.4105727244
+		threshold: 57.64463693
+		polarity: 1
+		alpha: 0.1807991361
+	54: 
+		feature index: 206839
+		error: 0.4121509785
+		threshold: 1.245710409
+		polarity: -1
+		alpha: 0.177540207
+	55: 
+		feature index: 161748
+		error: 0.4144287248
+		threshold: -0.5567394028
+		polarity: -1
+		alpha: 0.1728434522
+	56: 
+		feature index: 110400
+		error: 0.4124674299
+		threshold: -0.4939145683
+		polarity: 1
+		alpha: 0.1768872191
+	57: 
+		feature index: 158728
+		error: 0.414643453
+		threshold: 1.805178575
+		polarity: 1
+		alpha: 0.172401071
+	58: 
+		feature index: 180713
+		error: 0.4105192054
+		threshold: 2.77905751
+		polarity: -1
+		alpha: 0.1809097136
+	59: 
+		feature index: 113730
+		error: 0.4154568198
+		threshold: 2.154739263
+		polarity: -1
+		alpha: 0.1707259842
+	60: 
+		feature index: 149076
+		error: 0.4171087303
+		threshold: -0.6956100633
+		polarity: -1
+		alpha: 0.1673268678
+	61: 
+		feature index: 43158
+		error: 0.4148473197
+		threshold: 0.2870804542
+		polarity: -1
+		alpha: 0.1719811286
+	62: 
+		feature index: 110952
+		error: 0.4160114246
+		threshold: 2.502366259
+		polarity: 1
+		alpha: 0.1695843486
+	63: 
+		feature index: 316713
+		error: 0.4168900476
+		threshold: -7.4385717
+		polarity: -1
+		alpha: 0.1677766269
+	64: 
+		feature index: 106530
+		error: 0.4139055666
+		threshold: 2.677127843
+		polarity: -1
+		alpha: 0.173921539
+	65: 
+		feature index: 150986
+		error: 0.41483952
+		threshold: -4.383689468
+		polarity: -1
+		alpha: 0.1719971938
+	66: 
+		feature index: 113488
+		error: 0.415192665
+		threshold: -2.230781234
+		polarity: 1
+		alpha: 0.1712698927
+	67: 
+		feature index: 27780
+		error: 0.4143107563
+		threshold: 0.65985313
+		polarity: 1
+		alpha: 0.1730865184
+	68: 
+		feature index: 103620
+		error: 0.4187279438
+		threshold: -0.5018498971
+		polarity: 1
+		alpha: 0.163998746
+	69: 
+		feature index: 161174
+		error: 0.4180580732
+		threshold: -1.699579115
+		polarity: -1
+		alpha: 0.1653751534
+	70: 
+		feature index: 158733
+		error: 0.4153311563
+		threshold: -2.032987277
+		polarity: -1
+		alpha: 0.1709847193
+	71: 
+		feature index: 162297
+		error: 0.4195368746
+		threshold: 0.782146684
+		polarity: 1
+		alpha: 0.1623374269
+	72: 
+		feature index: 180081
+		error: 0.4144184783
+		threshold: -1.164123466
+		polarity: 1
+		alpha: 0.1728645636
+	73: 
+		feature index: 198814
+		error: 0.4167516947
+		threshold: -0.9319198124
+		polarity: 1
+		alpha: 0.1680612086
+	74: 
+		feature index: 162327
+		error: 0.4123794045
+		threshold: 0.6561163218
+		polarity: 1
+		alpha: 0.1770688418
+	75: 
+		feature index: 154240
+		error: 0.4168041096
+		threshold: 0.3924533634
+		polarity: 1
+		alpha: 0.1679533919
+	76: 
+		feature index: 210436
+		error: 0.4157654406
+		threshold: 1.920332383
+		polarity: -1
+		alpha: 0.1700906443
+	77: 
+		feature index: 213416
+		error: 0.4163658636
+		threshold: 1.922113602
+		polarity: -1
+		alpha: 0.1688549771
+	78: 
+		feature index: 214379
+		error: 0.4176060289
+		threshold: 2.382335135
+		polarity: -1
+		alpha: 0.1663043358
+	79: 
+		feature index: 150024
+		error: 0.4149371781
+		threshold: -0.6867455033
+		polarity: -1
+		alpha: 0.1717960493
+	80: 
+		feature index: 83480
+		error: 0.4164443352
+		threshold: 1.70858047
+		polarity: 1
+		alpha: 0.1686935208
+	81: 
+		feature index: 145023
+		error: 0.4095966101
+		threshold: -7.203339861
+		polarity: 1
+		alpha: 0.1828166088
+	82: 
+		feature index: 43416
+		error: 0.415322522
+		threshold: 1.004212218
+		polarity: -1
+		alpha: 0.1710024978
+	83: 
+		feature index: 113400
+		error: 0.4144867
+		threshold: 0.6144396326
+		polarity: 1
+		alpha: 0.1727240055
+	84: 
+		feature index: 179985
+		error: 0.4169305652
+		threshold: -1.219921315
+		polarity: 1
+		alpha: 0.1676932904
+	85: 
+		feature index: 206253
+		error: 0.4168653164
+		threshold: -66.689905
+		polarity: 1
+		alpha: 0.1678274953
+	86: 
+		feature index: 180560
+		error: 0.414328342
+		threshold: 0.5394269112
+		polarity: -1
+		alpha: 0.173050283
+	87: 
+		feature index: 217032
+		error: 0.4169398743
+		threshold: -1.979300777
+		polarity: 1
+		alpha: 0.1676741438
+	88: 
+		feature index: 109788
+		error: 0.4138448135
+		threshold: -0.3995674863
+		polarity: -1
+		alpha: 0.1740467605
+	89: 
+		feature index: 17208
+		error: 0.4155919317
+		threshold: 0.5817542698
+		polarity: 1
+		alpha: 0.1704478203
+	90: 
+		feature index: 123440
+		error: 0.4138183103
+		threshold: 42.65198193
+		polarity: 1
+		alpha: 0.1741013893
+	91: 
+		feature index: 101302
+		error: 0.4056772043
+		threshold: -1.014985041
+		polarity: 1
+		alpha: 0.1909324095
+	92: 
+		feature index: 217042
+		error: 0.4160776097
+		threshold: 1.860001094
+		polarity: -1
+		alpha: 0.1694481379
+	93: 
+		feature index: 341764
+		error: 0.4182951772
+		threshold: 2.45087579
+		polarity: 1
+		alpha: 0.1648878965
+	94: 
+		feature index: 41937
+		error: 0.4173090294
+		threshold: 0.8517880889
+		polarity: 1
+		alpha: 0.1669149766
+	95: 
+		feature index: 308290
+		error: 0.4163198877
+		threshold: -16.12030506
+		polarity: 1
+		alpha: 0.1689495771
+	96: 
+		feature index: 113419
+		error: 0.4196431301
+		threshold: -2.446181755
+		polarity: 1
+		alpha: 0.1621192736
+	97: 
+		feature index: 161367
+		error: 0.4206271694
+		threshold: 0.9058700886
+		polarity: 1
+		alpha: 0.1600996669
+	98: 
+		feature index: 149689
+		error: 0.4204195216
+		threshold: 3.511147138
+		polarity: 1
+		alpha: 0.1605257275
+	99: 
+		feature index: 195919
+		error: 0.4214246393
+		threshold: 1.83569439
+		polarity: -1
+		alpha: 0.1584639188
+	100: 
+		feature index: 82707
+		error: 0.4204537114
+		threshold: -15.60046507
+		polarity: 1
+		alpha: 0.1604555715
+	101: 
+		feature index: 216282
+		error: 0.4182272766
+		threshold: -0.8887974615
+		polarity: -1
+		alpha: 0.1650274266
+	102: 
+		feature index: 107490
+		error: 0.4151931888
+		threshold: 2.644474063
+		polarity: 1
+		alpha: 0.1712688143
+	103: 
+		feature index: 41516
+		error: 0.4159403472
+		threshold: 0.6564849886
+		polarity: -1
+		alpha: 0.1697306346
+	104: 
+		feature index: 70800
+		error: 0.4143742736
+		threshold: -0.3941766301
+		polarity: 1
+		alpha: 0.1729556426
+	105: 
+		feature index: 319448
+		error: 0.4201676815
+		threshold: 1.508728326
+		polarity: -1
+		alpha: 0.1610425413
+	106: 
+		feature index: 60495
+		error: 0.4193950135
+		threshold: -2.426685936
+		polarity: -1
+		alpha: 0.1626287057
+	107: 
+		feature index: 114819
+		error: 0.412308503
+		threshold: 53.18778724
+		polarity: 1
+		alpha: 0.1772151411
+	108: 
+		feature index: 18348
+		error: 0.4125674443
+		threshold: 0.8481691296
+		polarity: 1
+		alpha: 0.1766808734
+	109: 
+		feature index: 103620
+		error: 0.4181470542
+		threshold: 0.9750242331
+		polarity: -1
+		alpha: 0.1651922851
+	110: 
+		feature index: 194637
+		error: 0.4184817166
+		threshold: 0.3660211855
+		polarity: -1
+		alpha: 0.1645046062
+	111: 
+		feature index: 217834
+		error: 0.4191957362
+		threshold: 3.889387273
+		polarity: 1
+		alpha: 0.1630379214
+	112: 
+		feature index: 161748
+		error: 0.4192926336
+		threshold: -0.5648940551
+		polarity: -1
+		alpha: 0.1628389361
+	113: 
+		feature index: 180560
+		error: 0.4164692045
+		threshold: -0.6570180885
+		polarity: 1
+		alpha: 0.1686423538
+	114: 
+		feature index: 103620
+		error: 0.4206375335
+		threshold: -0.4792923367
+		polarity: 1
+		alpha: 0.160078403
+	115: 
+		feature index: 218839
+		error: 0.4188862246
+		threshold: -1.116435904
+		polarity: 1
+		alpha: 0.163673611
+	116: 
+		feature index: 216886
+		error: 0.4161848378
+		threshold: 2.660236413
+		polarity: 1
+		alpha: 0.1692274731
+	117: 
+		feature index: 217670
+		error: 0.4108477279
+		threshold: 3.024931846
+		polarity: -1
+		alpha: 0.1802310113
+	118: 
+		feature index: 214295
+		error: 0.42063249
+		threshold: 1.109008238
+		polarity: -1
+		alpha: 0.1600887507
+	119: 
+		feature index: 77678
+		error: 0.4207827552
+		threshold: -0.7792465393
+		polarity: 1
+		alpha: 0.1597804673
+	120: 
+		feature index: 198608
+		error: 0.4202102911
+		threshold: 0.5263031626
+		polarity: -1
+		alpha: 0.160955094
+	121: 
+		feature index: 27780
+		error: 0.410908775
+		threshold: 0.6925037205
+		polarity: 1
+		alpha: 0.1801049108
+	122: 
+		feature index: 197989
+		error: 0.4171233269
+		threshold: -1.481530663
+		polarity: 1
+		alpha: 0.1672968498
+	123: 
+		feature index: 157356
+		error: 0.4184210111
+		threshold: -0.4201271924
+		polarity: -1
+		alpha: 0.1646293349
+	124: 
+		feature index: 161743
+		error: 0.4193018278
+		threshold: 1.036695426
+		polarity: 1
+		alpha: 0.1628200558
+	125: 
+		feature index: 89727
+		error: 0.4184723015
+		threshold: 1.239515692
+		polarity: -1
+		alpha: 0.1645239506
+	126: 
+		feature index: 198268
+		error: 0.4183409291
+		threshold: 1.032555622
+		polarity: -1
+		alpha: 0.1647938837
+	127: 
+		feature index: 160320
+		error: 0.4148487139
+		threshold: -0.4737618008
+		polarity: -1
+		alpha: 0.1719782568
+	128: 
+		feature index: 198132
+		error: 0.4168295894
+		threshold: -2.615413244
+		polarity: -1
+		alpha: 0.1679009817
+	129: 
+		feature index: 29090
+		error: 0.4192655485
+		threshold: -0.7276638927
+		polarity: 1
+		alpha: 0.1628945558
+	130: 
+		feature index: 150528
+		error: 0.4196385703
+		threshold: 0.6516276962
+		polarity: 1
+		alpha: 0.1621286352
+	131: 
+		feature index: 99893
+		error: 0.4220675547
+		threshold: 5.908183598
+		polarity: 1
+		alpha: 0.1571458009
+	132: 
+		feature index: 184051
+		error: 0.4159663892
+		threshold: 2.219125131
+		polarity: 1
+		alpha: 0.1696770361
+	133: 
+		feature index: 98515
+		error: 0.4204799838
+		threshold: 45.98649983
+		polarity: -1
+		alpha: 0.1604016627
+	134: 
+		feature index: 103620
+		error: 0.4189064789
+		threshold: -0.4752088246
+		polarity: 1
+		alpha: 0.1636320077
+	135: 
+		feature index: 202329
+		error: 0.4203374854
+		threshold: 1.984054637
+		polarity: -1
+		alpha: 0.1606940689
+	136: 
+		feature index: 159932
+		error: 0.4191305372
+		threshold: 0.5399973512
+		polarity: 1
+		alpha: 0.1631718194
+	137: 
+		feature index: 160572
+		error: 0.4186676007
+		threshold: -0.4108101897
+		polarity: -1
+		alpha: 0.16412271
+	138: 
+		feature index: 180417
+		error: 0.4196269212
+		threshold: -0.9194970068
+		polarity: 1
+		alpha: 0.1621525512
+	139: 
+		feature index: 82130
+		error: 0.4219281587
+		threshold: 1.765628768
+		polarity: 1
+		alpha: 0.1574315471
+	140: 
+		feature index: 125240
+		error: 0.4212617404
+		threshold: 40.81712779
+		polarity: 1
+		alpha: 0.1587979838
+	141: 
+		feature index: 212498
+		error: 0.4154586702
+		threshold: -3.233688478
+		polarity: 1
+		alpha: 0.1707221743
+	142: 
+		feature index: 1056
+		error: 0.421500805
+		threshold: 0.3744819485
+		polarity: -1
+		alpha: 0.158307734
+	143: 
+		feature index: 156299
+		error: 0.4157922486
+		threshold: -6.918276547
+		polarity: -1
+		alpha: 0.1700354626
+	144: 
+		feature index: 150024
+		error: 0.4186444647
+		threshold: 0.627633623
+		polarity: 1
+		alpha: 0.1641702399
+	145: 
+		feature index: 103620
+		error: 0.4185472059
+		threshold: -0.5624573508
+		polarity: 1
+		alpha: 0.1643700539
+	146: 
+		feature index: 179892
+		error: 0.4224191018
+		threshold: -2.201869087
+		polarity: 1
+		alpha: 0.1564252812
+	147: 
+		feature index: 558
+		error: 0.4153860039
+		threshold: 2.945973476
+		polarity: 1
+		alpha: 0.1708717879
+	148: 
+		feature index: 308959
+		error: 0.418421519
+		threshold: -3.481897569
+		polarity: 1
+		alpha: 0.1646282913
+	149: 
+		feature index: 158733
+		error: 0.4177623793
+		threshold: -2.063855009
+		polarity: -1
+		alpha: 0.1659829236
+	150: 
+		feature index: 162564
+		error: 0.4187049381
+		threshold: 28.21223807
+		polarity: -1
+		alpha: 0.1640460064
+	151: 
+		feature index: 211679
+		error: 0.4184799131
+		threshold: 1.442320514
+		polarity: -1
+		alpha: 0.1645083116
+	152: 
+		feature index: 161976
+		error: 0.4241625937
+		threshold: 0.3835629316
+		polarity: -1
+		alpha: 0.1528542413
+	153: 
+		feature index: 157296
+		error: 0.4126000789
+		threshold: -1.019950983
+		polarity: -1
+		alpha: 0.1766135463
+	154: 
+		feature index: 200869
+		error: 0.4246023461
+		threshold: 1.117083941
+		polarity: -1
+		alpha: 0.1519541496
+	155: 
+		feature index: 158416
+		error: 0.4221455039
+		threshold: 0.5675153176
+		polarity: 1
+		alpha: 0.1569860247
+	156: 
+		feature index: 157224
+		error: 0.4230790147
+		threshold: -0.6921904614
+		polarity: -1
+		alpha: 0.1550731795
+	157: 
+		feature index: 318258
+		error: 0.4236795356
+		threshold: -1.25157776
+		polarity: 1
+		alpha: 0.1538432553
+	158: 
+		feature index: 107490
+		error: 0.420230713
+		threshold: 2.688218987
+		polarity: 1
+		alpha: 0.1609131832
+	159: 
+		feature index: 112104
+		error: 0.4202221415
+		threshold: -0.5198871532
+		polarity: 1
+		alpha: 0.160930774
+	160: 
+		feature index: 25906
+		error: 0.4204385089
+		threshold: -1.713028185
+		polarity: -1
+		alpha: 0.1604867661
+	161: 
+		feature index: 35104
+		error: 0.4204539358
+		threshold: 0.4568760195
+		polarity: -1
+		alpha: 0.1604551111
+	162: 
+		feature index: 218149
+		error: 0.4227354191
+		threshold: 3.125818758
+		polarity: 1
+		alpha: 0.1557771054
+	163: 
+		feature index: 161298
+		error: 0.4244234337
+		threshold: -2.754968142
+		polarity: -1
+		alpha: 0.1523203207
+	164: 
+		feature index: 206248
+		error: 0.4225072019
+		threshold: 0.5880658398
+		polarity: -1
+		alpha: 0.1562447395
+	165: 
+		feature index: 114319
+		error: 0.4241204234
+		threshold: -83.15106317
+		polarity: 1
+		alpha: 0.1529405689
+	166: 
+		feature index: 92364
+		error: 0.4257644002
+		threshold: 0.8180812688
+		polarity: -1
+		alpha: 0.1495768114
+	167: 
+		feature index: 162327
+		error: 0.4262238178
+		threshold: -0.5626849309
+		polarity: -1
+		alpha: 0.1486373958
+	168: 
+		feature index: 43158
+		error: 0.4261852266
+		threshold: 0.2985376539
+		polarity: -1
+		alpha: 0.1487162969
+	169: 
+		feature index: 187550
+		error: 0.4209918741
+		threshold: 1.007589963
+		polarity: 1
+		alpha: 0.1593514899
+	170: 
+		feature index: 143680
+		error: 0.4255401792
+		threshold: -3.126745064
+		polarity: 1
+		alpha: 0.1500353926
+	171: 
+		feature index: 106525
+		error: 0.426224602
+		threshold: -0.9812854114
+		polarity: 1
+		alpha: 0.1486357925
+	172: 
+		feature index: 326085
+		error: 0.4241198926
+		threshold: -5.840829777
+		polarity: -1
+		alpha: 0.1529416556
+	173: 
+		feature index: 179987
+		error: 0.4218479997
+		threshold: 1.388342744
+		polarity: -1
+		alpha: 0.1575958757
+	174: 
+		feature index: 341764
+		error: 0.4245827462
+		threshold: 1.898448755
+		polarity: 1
+		alpha: 0.1519942618
+	175: 
+		feature index: 160460
+		error: 0.4258155316
+		threshold: -2.693970376
+		polarity: -1
+		alpha: 0.1494722452
+	176: 
+		feature index: 113662
+		error: 0.4251268399
+		threshold: 2.553276565
+		polarity: -1
+		alpha: 0.1508809271
+	177: 
+		feature index: 27780
+		error: 0.4208366799
+		threshold: 0.7265854354
+		polarity: 1
+		alpha: 0.159669843
+	178: 
+		feature index: 162150
+		error: 0.4160427343
+		threshold: -0.4013699132
+		polarity: 1
+		alpha: 0.1695199116
+	179: 
+		feature index: 180712
+		error: 0.4233860323
+		threshold: 2.705378542
+		polarity: -1
+		alpha: 0.1544443202
+	180: 
+		feature index: 109788
+		error: 0.4215443675
+		threshold: -0.4720938813
+		polarity: -1
+		alpha: 0.1582184083
+	181: 
+		feature index: 210436
+		error: 0.4221183749
+		threshold: -2.049523038
+		polarity: 1
+		alpha: 0.1570416314
+	182: 
+		feature index: 149690
+		error: 0.4211277204
+		threshold: 4.029084563
+		polarity: 1
+		alpha: 0.1590728518
+	183: 
+		feature index: 143304
+		error: 0.4226994871
+		threshold: -0.4533950271
+		polarity: -1
+		alpha: 0.1558507281
+	184: 
+		feature index: 210448
+		error: 0.4228101521
+		threshold: 1.571967961
+		polarity: -1
+		alpha: 0.1556239864
+	185: 
+		feature index: 121464
+		error: 0.4197019811
+		threshold: 57.47968527
+		polarity: 1
+		alpha: 0.1619984533
+	186: 
+		feature index: 161976
+		error: 0.4208117827
+		threshold: 0.4411378641
+		polarity: -1
+		alpha: 0.1597209181
+	187: 
+		feature index: 106530
+		error: 0.4215855755
+		threshold: 2.595471983
+		polarity: -1
+		alpha: 0.158133913
+	188: 
+		feature index: 146526
+		error: 0.4196261983
+		threshold: -2.033936898
+		polarity: -1
+		alpha: 0.1621540353
+	189: 
+		feature index: 9916
+		error: 0.421582207
+		threshold: -1.796611088
+		polarity: -1
+		alpha: 0.15814082
+	190: 
+		feature index: 103620
+		error: 0.4152577581
+		threshold: 0.9603217362
+		polarity: -1
+		alpha: 0.1711358533
+
+Layer: 15
+	count of the previous-classifier: 144897
+	number of Classifier: 120
+	FALSE_POSITIVE_RATE: 0.615
+	DETECTION_RATE: 0.996
+	bias: 0.086
+	1: 
+		feature index: 327537
+		error: 0.2952725351
+		threshold: 12.55417317
+		polarity: 1
+		alpha: 0.434956188
+	2: 
+		feature index: 274282
+		error: 0.3408699695
+		threshold: 6.735415805
+		polarity: 1
+		alpha: 0.3297098731
+	3: 
+		feature index: 109884
+		error: 0.3621216646
+		threshold: -3.232346221
+		polarity: -1
+		alpha: 0.2830836615
+	4: 
+		feature index: 180963
+		error: 0.3784689761
+		threshold: -12.17773961
+		polarity: -1
+		alpha: 0.2480258616
+	5: 
+		feature index: 161356
+		error: 0.3910875046
+		threshold: -2.448626817
+		polarity: -1
+		alpha: 0.2213716199
+	6: 
+		feature index: 154244
+		error: 0.408175822
+		threshold: 3.23516463
+		polarity: 1
+		alpha: 0.1857557881
+	7: 
+		feature index: 17308
+		error: 0.4047899517
+		threshold: -4.85695178
+		polarity: 1
+		alpha: 0.1927730354
+	8: 
+		feature index: 121471
+		error: 0.4026715413
+		threshold: 51.87065925
+		polarity: 1
+		alpha: 0.1971729742
+	9: 
+		feature index: 12942
+		error: 0.3980956828
+		threshold: 2.377472119
+		polarity: 1
+		alpha: 0.2067030528
+	10: 
+		feature index: 198318
+		error: 0.4062706841
+		threshold: -1.67184257
+		polarity: 1
+		alpha: 0.1897019356
+	11: 
+		feature index: 121215
+		error: 0.408293938
+		threshold: -3.599790491
+		polarity: -1
+		alpha: 0.1855113217
+	12: 
+		feature index: 148276
+		error: 0.4088683022
+		threshold: -0.5953794728
+		polarity: -1
+		alpha: 0.1843228634
+	13: 
+		feature index: 84030
+		error: 0.409110378
+		threshold: -1.708284574
+		polarity: 1
+		alpha: 0.1838221213
+	14: 
+		feature index: 43416
+		error: 0.4125239979
+		threshold: 0.9115332836
+		polarity: -1
+		alpha: 0.1767705084
+	15: 
+		feature index: 188593
+		error: 0.4096227624
+		threshold: -4.335390799
+		polarity: -1
+		alpha: 0.182762537
+	16: 
+		feature index: 150953
+		error: 0.4119052297
+		threshold: -11.69296534
+		polarity: 1
+		alpha: 0.1780474056
+	17: 
+		feature index: 214577
+		error: 0.4104734525
+		threshold: 1.182509147
+		polarity: -1
+		alpha: 0.1810042487
+	18: 
+		feature index: 161797
+		error: 0.4120637574
+		threshold: -9.338954386
+		polarity: -1
+		alpha: 0.1777202114
+	19: 
+		feature index: 101330
+		error: 0.4147414294
+		threshold: -0.4089420988
+		polarity: 1
+		alpha: 0.172199243
+	20: 
+		feature index: 203764
+		error: 0.4150278662
+		threshold: -1.387187682
+		polarity: -1
+		alpha: 0.1716092731
+	21: 
+		feature index: 16676
+		error: 0.414115367
+		threshold: -0.6472253227
+		polarity: -1
+		alpha: 0.1734891494
+	22: 
+		feature index: 179892
+		error: 0.41252763
+		threshold: 1.92319892
+		polarity: -1
+		alpha: 0.1767630149
+	23: 
+		feature index: 43079
+		error: 0.41146118
+		threshold: 0.6049700156
+		polarity: 1
+		alpha: 0.1789641055
+	24: 
+		feature index: 203854
+		error: 0.4159224143
+		threshold: 1.122256846
+		polarity: -1
+		alpha: 0.1697675437
+	25: 
+		feature index: 198665
+		error: 0.4161345585
+		threshold: -1.612300294
+		polarity: -1
+		alpha: 0.1693309409
+	26: 
+		feature index: 197558
+		error: 0.4181066456
+		threshold: 1.808978487
+		polarity: -1
+		alpha: 0.165275329
+	27: 
+		feature index: 111852
+		error: 0.4182007775
+		threshold: -2.320990025
+		polarity: -1
+		alpha: 0.1650818818
+	28: 
+		feature index: 198814
+		error: 0.414915791
+		threshold: -1.19374889
+		polarity: 1
+		alpha: 0.1718400987
+	29: 
+		feature index: 18348
+		error: 0.4176992683
+		threshold: 0.8107004281
+		polarity: 1
+		alpha: 0.1661126579
+	30: 
+		feature index: 217020
+		error: 0.4166036449
+		threshold: -1.889612281
+		polarity: 1
+		alpha: 0.1683657659
+	31: 
+		feature index: 199014
+		error: 0.4174971753
+		threshold: -1.096833652
+		polarity: -1
+		alpha: 0.1665281282
+	32: 
+		feature index: 149842
+		error: 0.4183892489
+		threshold: 21.83752259
+		polarity: -1
+		alpha: 0.1646945973
+	33: 
+		feature index: 94712
+		error: 0.4217290943
+		threshold: -2.162577328
+		polarity: 1
+		alpha: 0.1578396512
+	34: 
+		feature index: 145866
+		error: 0.4190754061
+		threshold: -8.276321626
+		polarity: 1
+		alpha: 0.1632850457
+	35: 
+		feature index: 308609
+		error: 0.4205565261
+		threshold: -6.955104288
+		polarity: -1
+		alpha: 0.1602446095
+	36: 
+		feature index: 18196
+		error: 0.421190328
+		threshold: 0.6943881685
+		polarity: 1
+		alpha: 0.1589444441
+	37: 
+		feature index: 60420
+		error: 0.4207364702
+		threshold: -3.377917904
+		polarity: -1
+		alpha: 0.1598754222
+	38: 
+		feature index: 210436
+		error: 0.4173920503
+		threshold: 1.527700175
+		polarity: -1
+		alpha: 0.1667442705
+	39: 
+		feature index: 198957
+		error: 0.4191216008
+		threshold: -0.7998728752
+		polarity: 1
+		alpha: 0.1631901723
+	40: 
+		feature index: 198957
+		error: 0.4215205453
+		threshold: 0.630595823
+		polarity: -1
+		alpha: 0.1582672559
+	41: 
+		feature index: 108720
+		error: 0.4204012
+		threshold: 0.8038945283
+		polarity: 1
+		alpha: 0.1605633233
+	42: 
+		feature index: 179271
+		error: 0.4208633199
+		threshold: 6.19679163
+		polarity: 1
+		alpha: 0.1596151934
+	43: 
+		feature index: 3438
+		error: 0.4212236897
+		threshold: -4.034930862
+		polarity: -1
+		alpha: 0.1588760214
+	44: 
+		feature index: 105360
+		error: 0.4205207935
+		threshold: -0.3262253011
+		polarity: 1
+		alpha: 0.1603179263
+	45: 
+		feature index: 153696
+		error: 0.4193767648
+		threshold: 0.6616608346
+		polarity: 1
+		alpha: 0.1626661772
+	46: 
+		feature index: 205339
+		error: 0.4203606488
+		threshold: 1.025635444
+		polarity: -1
+		alpha: 0.1606465357
+	47: 
+		feature index: 102804
+		error: 0.4219593309
+		threshold: 0.6512380529
+		polarity: 1
+		alpha: 0.1573676455
+	48: 
+		feature index: 180753
+		error: 0.4218072665
+		threshold: 1.051539123
+		polarity: -1
+		alpha: 0.1576793834
+	49: 
+		feature index: 43090
+		error: 0.4215988114
+		threshold: 0.66740773
+		polarity: 1
+		alpha: 0.1581067739
+	50: 
+		feature index: 83490
+		error: 0.4226952956
+		threshold: 2.136973402
+		polarity: 1
+		alpha: 0.1558593164
+	51: 
+		feature index: 5482
+		error: 0.4235652775
+		threshold: -1.118461255
+		polarity: 1
+		alpha: 0.1540772311
+	52: 
+		feature index: 113783
+		error: 0.4225237907
+		threshold: -2.050598808
+		polarity: 1
+		alpha: 0.1562107454
+	53: 
+		feature index: 161561
+		error: 0.4240140785
+		threshold: -1.344919664
+		polarity: -1
+		alpha: 0.15315828
+	54: 
+		feature index: 107495
+		error: 0.4235489518
+		threshold: 3.614592661
+		polarity: 1
+		alpha: 0.154110664
+	55: 
+		feature index: 318074
+		error: 0.4202952496
+		threshold: -1.456112271
+		polarity: 1
+		alpha: 0.1607807416
+	56: 
+		feature index: 100530
+		error: 0.4231006802
+		threshold: 4.446599214
+		polarity: 1
+		alpha: 0.1550287984
+	57: 
+		feature index: 107890
+		error: 0.4191118155
+		threshold: 2.431015176
+		polarity: -1
+		alpha: 0.1632102688
+	58: 
+		feature index: 161748
+		error: 0.4185993625
+		threshold: -0.5270539805
+		polarity: -1
+		alpha: 0.1642628988
+	59: 
+		feature index: 317850
+		error: 0.4199039768
+		threshold: -15.96061682
+		polarity: 1
+		alpha: 0.1615837944
+	60: 
+		feature index: 112562
+		error: 0.4242458735
+		threshold: -0.866635796
+		polarity: -1
+		alpha: 0.1526837642
+	61: 
+		feature index: 216655
+		error: 0.4171224003
+		threshold: 6.49853715
+		polarity: -1
+		alpha: 0.1672987553
+	62: 
+		feature index: 211679
+		error: 0.4236732836
+		threshold: 1.695309777
+		polarity: -1
+		alpha: 0.1538560576
+	63: 
+		feature index: 159812
+		error: 0.4228954981
+		threshold: -1.129668459
+		polarity: -1
+		alpha: 0.1554491317
+	64: 
+		feature index: 198805
+		error: 0.4225287254
+		threshold: -1.091498284
+		polarity: 1
+		alpha: 0.1562006333
+	65: 
+		feature index: 158714
+		error: 0.4243732498
+		threshold: 5.48242254
+		polarity: 1
+		alpha: 0.1524230367
+	66: 
+		feature index: 197932
+		error: 0.4239026236
+		threshold: 0.8338066001
+		polarity: -1
+		alpha: 0.1533864675
+	67: 
+		feature index: 317018
+		error: 0.424166186
+		threshold: 9.269913205
+		polarity: -1
+		alpha: 0.1528468875
+	68: 
+		feature index: 60545
+		error: 0.4242954719
+		threshold: 1.010947516
+		polarity: 1
+		alpha: 0.1525822384
+	69: 
+		feature index: 218188
+		error: 0.4228223001
+		threshold: 2.11822042
+		polarity: 1
+		alpha: 0.1555990974
+	70: 
+		feature index: 111855
+		error: 0.423007877
+		threshold: -2.646426272
+		polarity: -1
+		alpha: 0.1552189071
+	71: 
+		feature index: 187664
+		error: 0.4225610309
+		threshold: -0.8415083829
+		polarity: -1
+		alpha: 0.1561344337
+	72: 
+		feature index: 180612
+		error: 0.4259374085
+		threshold: -1.762602845
+		polarity: 1
+		alpha: 0.1492230139
+	73: 
+		feature index: 187550
+		error: 0.4228795125
+		threshold: 1.155550639
+		polarity: 1
+		alpha: 0.155481882
+	74: 
+		feature index: 2758
+		error: 0.4230985032
+		threshold: 5.038285297
+		polarity: -1
+		alpha: 0.1550332579
+	75: 
+		feature index: 149568
+		error: 0.4246620655
+		threshold: 10.0795735
+		polarity: -1
+		alpha: 0.1518319339
+	76: 
+		feature index: 155259
+		error: 0.4157795694
+		threshold: -1.033205939
+		polarity: -1
+		alpha: 0.1700615613
+	77: 
+		feature index: 263626
+		error: 0.4234929948
+		threshold: 0.1689414619
+		polarity: -1
+		alpha: 0.154225259
+	78: 
+		feature index: 159892
+		error: 0.4212737431
+		threshold: 1.122534352
+		polarity: 1
+		alpha: 0.1587733681
+	79: 
+		feature index: 217715
+		error: 0.419398558
+		threshold: 2.111028675
+		polarity: -1
+		alpha: 0.1626214276
+	80: 
+		feature index: 160572
+		error: 0.422227098
+		threshold: -0.4161633495
+		polarity: -1
+		alpha: 0.1568187861
+	81: 
+		feature index: 110952
+		error: 0.4227606074
+		threshold: 2.567823673
+		polarity: 1
+		alpha: 0.1557254968
+	82: 
+		feature index: 6772
+		error: 0.4235360165
+		threshold: -3.518330978
+		polarity: -1
+		alpha: 0.1541371541
+	83: 
+		feature index: 90870
+		error: 0.4249452479
+		threshold: 1.065122496
+		polarity: 1
+		alpha: 0.1512524625
+	84: 
+		feature index: 216286
+		error: 0.4252009578
+		threshold: -2.219948708
+		polarity: -1
+		alpha: 0.1507292945
+	85: 
+		feature index: 105355
+		error: 0.4234021848
+		threshold: -0.4670359541
+		polarity: 1
+		alpha: 0.1544112387
+	86: 
+		feature index: 334312
+		error: 0.4244116103
+		threshold: 13.49898923
+		polarity: 1
+		alpha: 0.1523445204
+	87: 
+		feature index: 199040
+		error: 0.4237748568
+		threshold: 0.5056033708
+		polarity: -1
+		alpha: 0.153648071
+	88: 
+		feature index: 184625
+		error: 0.426265566
+		threshold: 3.198297613
+		polarity: 1
+		alpha: 0.1485520421
+	89: 
+		feature index: 198288
+		error: 0.4213840938
+		threshold: -1.701530195
+		polarity: 1
+		alpha: 0.1585470642
+	90: 
+		feature index: 161749
+		error: 0.4239387404
+		threshold: 1.112791433
+		polarity: 1
+		alpha: 0.153312522
+	91: 
+		feature index: 146056
+		error: 0.4237514022
+		threshold: 1.30441001
+		polarity: 1
+		alpha: 0.1536960967
+	92: 
+		feature index: 181816
+		error: 0.4232647384
+		threshold: -1.649034498
+		polarity: 1
+		alpha: 0.15469275
+	93: 
+		feature index: 181410
+		error: 0.4235927407
+		threshold: -2.287259642
+		polarity: -1
+		alpha: 0.1540209908
+	94: 
+		feature index: 2736
+		error: 0.4234739276
+		threshold: -0.2777696268
+		polarity: 1
+		alpha: 0.1542643079
+	95: 
+		feature index: 179987
+		error: 0.426780787
+		threshold: -1.70891695
+		polarity: 1
+		alpha: 0.147498856
+	96: 
+		feature index: 197675
+		error: 0.4279864584
+		threshold: -3.519730422
+		polarity: -1
+		alpha: 0.1450355546
+	97: 
+		feature index: 180563
+		error: 0.4275327093
+		threshold: 1.215115466
+		polarity: -1
+		alpha: 0.1459624005
+	98: 
+		feature index: 159812
+		error: 0.4274593522
+		threshold: 1.269163847
+		polarity: 1
+		alpha: 0.146112266
+	99: 
+		feature index: 218240
+		error: 0.4272860712
+		threshold: -1.904541248
+		polarity: 1
+		alpha: 0.1464662978
+	100: 
+		feature index: 154569
+		error: 0.4276954055
+		threshold: -11.14892401
+		polarity: 1
+		alpha: 0.1456300424
+	101: 
+		feature index: 349757
+		error: 0.4274129156
+		threshold: 1.072708728
+		polarity: 1
+		alpha: 0.1462071375
+	102: 
+		feature index: 162047
+		error: 0.4293203065
+		threshold: 1.089434427
+		polarity: 1
+		alpha: 0.1423124098
+	103: 
+		feature index: 218835
+		error: 0.421842404
+		threshold: -2.461026695
+		polarity: 1
+		alpha: 0.1576073474
+	104: 
+		feature index: 218176
+		error: 0.4258556285
+		threshold: 2.605897148
+		polarity: 1
+		alpha: 0.1493902471
+	105: 
+		feature index: 318258
+		error: 0.4257437649
+		threshold: -1.402473683
+		polarity: 1
+		alpha: 0.1496190125
+	106: 
+		feature index: 159812
+		error: 0.426222017
+		threshold: -1.155427136
+		polarity: -1
+		alpha: 0.1486410775
+	107: 
+		feature index: 141732
+		error: 0.4272566715
+		threshold: 3.234534533
+		polarity: -1
+		alpha: 0.1465263682
+	108: 
+		feature index: 214379
+		error: 0.4281672228
+		threshold: -2.419579639
+		polarity: 1
+		alpha: 0.1446663871
+	109: 
+		feature index: 162092
+		error: 0.426384228
+		threshold: -0.6233286359
+		polarity: -1
+		alpha: 0.148309451
+	110: 
+		feature index: 107900
+		error: 0.4273519504
+		threshold: -0.3565018609
+		polarity: 1
+		alpha: 0.1463316953
+	111: 
+		feature index: 158717
+		error: 0.4264517219
+		threshold: -0.9992624933
+		polarity: -1
+		alpha: 0.1481714749
+	112: 
+		feature index: 74422
+		error: 0.4274453048
+		threshold: 1.160615932
+		polarity: -1
+		alpha: 0.146140965
+	113: 
+		feature index: 179274
+		error: 0.4274162327
+		threshold: 8.059836811
+		polarity: 1
+		alpha: 0.1462003604
+	114: 
+		feature index: 43158
+		error: 0.4273621705
+		threshold: -0.2236963738
+		polarity: 1
+		alpha: 0.1463108143
+	115: 
+		feature index: 218149
+		error: 0.4281692588
+		threshold: -4.436814047
+		polarity: -1
+		alpha: 0.1446622294
+	116: 
+		feature index: 218809
+		error: 0.4249051933
+		threshold: -0.6334050627
+		polarity: -1
+		alpha: 0.1513344195
+	117: 
+		feature index: 43164
+		error: 0.4279784906
+		threshold: -0.2588268137
+		polarity: 1
+		alpha: 0.1450518279
+	118: 
+		feature index: 15827
+		error: 0.4261891117
+		threshold: 4.214113403
+		polarity: 1
+		alpha: 0.1487083535
+	119: 
+		feature index: 157130
+		error: 0.4270236977
+		threshold: 2.177427416
+		polarity: 1
+		alpha: 0.1470024244
+	120: 
+		feature index: 215285
+		error: 0.4279794097
+		threshold: -4.068825551
+		polarity: 1
+		alpha: 0.1450499508
+
+Layer: 16
+	count of the previous-classifier: 194092
+	number of Classifier: 85
+	FALSE_POSITIVE_RATE: 0.742
+	DETECTION_RATE: 0.996
+	bias: 0.048
+	1: 
+		feature index: 327537
+		error: 0.2917481379
+		threshold: 12.87082559
+		polarity: 1
+		alpha: 0.4434544396
+	2: 
+		feature index: 162484
+		error: 0.3406565539
+		threshold: -37.94612947
+		polarity: -1
+		alpha: 0.3301848824
+	3: 
+		feature index: 162231
+		error: 0.3493267845
+		threshold: -2.120774042
+		polarity: -1
+		alpha: 0.3109998569
+	4: 
+		feature index: 262041
+		error: 0.3714706042
+		threshold: -1.061215511
+		polarity: -1
+		alpha: 0.2629565323
+	5: 
+		feature index: 206699
+		error: 0.3758817537
+		threshold: 2.670236802
+		polarity: 1
+		alpha: 0.2535326194
+	6: 
+		feature index: 109936
+		error: 0.3929958292
+		threshold: -2.68550967
+		polarity: -1
+		alpha: 0.2173683315
+	7: 
+		feature index: 144922
+		error: 0.3983659225
+		threshold: -5.87536146
+		polarity: -1
+		alpha: 0.2061392148
+	8: 
+		feature index: 5481
+		error: 0.3995210559
+		threshold: -0.9578899577
+		polarity: 1
+		alpha: 0.2037305537
+	9: 
+		feature index: 216424
+		error: 0.4012767903
+		threshold: 1.104193518
+		polarity: -1
+		alpha: 0.2000739824
+	10: 
+		feature index: 5480
+		error: 0.4010655635
+		threshold: 0.5153416238
+		polarity: -1
+		alpha: 0.2005136116
+	11: 
+		feature index: 306982
+		error: 0.4028687984
+		threshold: 0.9519612965
+		polarity: 1
+		alpha: 0.1967629553
+	12: 
+		feature index: 198814
+		error: 0.4041057484
+		threshold: -1.020060504
+		polarity: 1
+		alpha: 0.1941933119
+	13: 
+		feature index: 161963
+		error: 0.4042978493
+		threshold: 8.008144705
+		polarity: 1
+		alpha: 0.193794469
+	14: 
+		feature index: 170865
+		error: 0.4095252241
+		threshold: -0.8957726066
+		polarity: 1
+		alpha: 0.1829642098
+	15: 
+		feature index: 212525
+		error: 0.4071426361
+		threshold: -1.689857784
+		polarity: 1
+		alpha: 0.1878951279
+	16: 
+		feature index: 41404
+		error: 0.4108095001
+		threshold: 0.653586018
+		polarity: -1
+		alpha: 0.1803099785
+	17: 
+		feature index: 150564
+		error: 0.4095342441
+		threshold: 0.857848134
+		polarity: 1
+		alpha: 0.1829455591
+	18: 
+		feature index: 203844
+		error: 0.4073499964
+		threshold: 1.399402067
+		polarity: -1
+		alpha: 0.1874656268
+	19: 
+		feature index: 154112
+		error: 0.4070792174
+		threshold: -0.636585043
+		polarity: -1
+		alpha: 0.1880264993
+	20: 
+		feature index: 107900
+		error: 0.4092662232
+		threshold: -0.3139800501
+		polarity: 1
+		alpha: 0.1834997983
+	21: 
+		feature index: 190697
+		error: 0.411608991
+		threshold: 1.10475788
+		polarity: 1
+		alpha: 0.1786589303
+	22: 
+		feature index: 179950
+		error: 0.4089651343
+		threshold: -35.16498562
+		polarity: 1
+		alpha: 0.1841225519
+	23: 
+		feature index: 16985
+		error: 0.4098369524
+		threshold: -10.17160762
+		polarity: 1
+		alpha: 0.1823197236
+	24: 
+		feature index: 12942
+		error: 0.4156883327
+		threshold: 2.146799135
+		polarity: 1
+		alpha: 0.1702493691
+	25: 
+		feature index: 161024
+		error: 0.4156564261
+		threshold: 1.787685533
+		polarity: 1
+		alpha: 0.1703150506
+	26: 
+		feature index: 121464
+		error: 0.4151278697
+		threshold: 55.14238915
+		polarity: 1
+		alpha: 0.171403325
+	27: 
+		feature index: 89601
+		error: 0.4131394918
+		threshold: 0.7665727062
+		polarity: -1
+		alpha: 0.1755009341
+	28: 
+		feature index: 148444
+		error: 0.416060795
+		threshold: 19.67454652
+		polarity: -1
+		alpha: 0.1694827425
+	29: 
+		feature index: 161771
+		error: 0.413683837
+		threshold: -5.813530595
+		polarity: -1
+		alpha: 0.174378584
+	30: 
+		feature index: 2860
+		error: 0.4151364745
+		threshold: -0.3563350077
+		polarity: 1
+		alpha: 0.1713856049
+	31: 
+		feature index: 150348
+		error: 0.4053359131
+		threshold: -0.6284572899
+		polarity: -1
+		alpha: 0.1916402739
+	32: 
+		feature index: 2738
+		error: 0.4184089508
+		threshold: -0.5049976861
+		polarity: 1
+		alpha: 0.1646541153
+	33: 
+		feature index: 150591
+		error: 0.4154610474
+		threshold: 0.5086841581
+		polarity: 1
+		alpha: 0.17071728
+	34: 
+		feature index: 217606
+		error: 0.4176351669
+		threshold: 2.322544611
+		polarity: -1
+		alpha: 0.1662444338
+	35: 
+		feature index: 158133
+		error: 0.4161758183
+		threshold: 1.827734132
+		polarity: 1
+		alpha: 0.1692460338
+	36: 
+		feature index: 100285
+		error: 0.4175105344
+		threshold: 4.898929262
+		polarity: 1
+		alpha: 0.1665006622
+	37: 
+		feature index: 98501
+		error: 0.4178051701
+		threshold: 32.43087752
+		polarity: -1
+		alpha: 0.1658949636
+	38: 
+		feature index: 149683
+		error: 0.4147342819
+		threshold: 1.198654428
+		polarity: 1
+		alpha: 0.1722139662
+	39: 
+		feature index: 206859
+		error: 0.4160924125
+		threshold: -0.6768152778
+		polarity: 1
+		alpha: 0.1694176743
+	40: 
+		feature index: 19966
+		error: 0.4176160374
+		threshold: -4.436395634
+		polarity: 1
+		alpha: 0.1662837601
+	41: 
+		feature index: 113641
+		error: 0.417597291
+		threshold: -1.208197591
+		polarity: 1
+		alpha: 0.1663222994
+	42: 
+		feature index: 157148
+		error: 0.4175450807
+		threshold: 2.144402594
+		polarity: 1
+		alpha: 0.1664296372
+	43: 
+		feature index: 198814
+		error: 0.4171553271
+		threshold: -1.017642353
+		polarity: 1
+		alpha: 0.1672310421
+	44: 
+		feature index: 97214
+		error: 0.4162125282
+		threshold: -1.198864264
+		polarity: 1
+		alpha: 0.1691704917
+	45: 
+		feature index: 111852
+		error: 0.4139034704
+		threshold: -2.284479828
+		polarity: -1
+		alpha: 0.1739258595
+	46: 
+		feature index: 3419
+		error: 0.4156034396
+		threshold: -5.081907757
+		polarity: -1
+		alpha: 0.1704241293
+	47: 
+		feature index: 199070
+		error: 0.4169317765
+		threshold: -1.004307589
+		polarity: 1
+		alpha: 0.167690799
+	48: 
+		feature index: 159892
+		error: 0.4178725418
+		threshold: 1.174728177
+		polarity: 1
+		alpha: 0.1657564809
+	49: 
+		feature index: 149256
+		error: 0.4176279183
+		threshold: -0.7860570344
+		polarity: -1
+		alpha: 0.1662593353
+	50: 
+		feature index: 123326
+		error: 0.4143282414
+		threshold: 43.25066397
+		polarity: 1
+		alpha: 0.1730504901
+	51: 
+		feature index: 217614
+		error: 0.4151109783
+		threshold: -1.492888855
+		polarity: 1
+		alpha: 0.1714381103
+	52: 
+		feature index: 16866
+		error: 0.4149532771
+		threshold: 0.622426682
+		polarity: 1
+		alpha: 0.1717628919
+	53: 
+		feature index: 198318
+		error: 0.4153754719
+		threshold: 1.160860045
+		polarity: -1
+		alpha: 0.1708934731
+	54: 
+		feature index: 179987
+		error: 0.4186193719
+		threshold: 1.553675387
+		polarity: -1
+		alpha: 0.1642217908
+	55: 
+		feature index: 160018
+		error: 0.4202945349
+		threshold: 1.876272584
+		polarity: 1
+		alpha: 0.1607822083
+	56: 
+		feature index: 217737
+		error: 0.4205383889
+		threshold: 2.025570392
+		polarity: -1
+		alpha: 0.1602818235
+	57: 
+		feature index: 21923
+		error: 0.4185655088
+		threshold: -2.568903064
+		polarity: 1
+		alpha: 0.1643324504
+	58: 
+		feature index: 205339
+		error: 0.4190737812
+		threshold: 1.073754902
+		polarity: -1
+		alpha: 0.1632883827
+	59: 
+		feature index: 162092
+		error: 0.419152007
+		threshold: -0.6864172397
+		polarity: -1
+		alpha: 0.1631277268
+	60: 
+		feature index: 180659
+		error: 0.4177856406
+		threshold: 1.578623031
+		polarity: -1
+		alpha: 0.1659351078
+	61: 
+		feature index: 150528
+		error: 0.4169455605
+		threshold: 0.7940186134
+		polarity: 1
+		alpha: 0.1676624487
+	62: 
+		feature index: 81240
+		error: 0.4161004417
+		threshold: -0.5043783245
+		polarity: 1
+		alpha: 0.1694011507
+	63: 
+		feature index: 92337
+		error: 0.4188144405
+		threshold: 0.9120491595
+		polarity: -1
+		alpha: 0.1638210632
+	64: 
+		feature index: 190809
+		error: 0.4186803418
+		threshold: -1.899736454
+		polarity: -1
+		alpha: 0.1640965353
+	65: 
+		feature index: 77535
+		error: 0.4174899113
+		threshold: 0.5606743632
+		polarity: 1
+		alpha: 0.1665430627
+	66: 
+		feature index: 158010
+		error: 0.4199467215
+		threshold: -0.5122773947
+		polarity: -1
+		alpha: 0.1614960546
+	67: 
+		feature index: 2759
+		error: 0.4195373931
+		threshold: 5.611073712
+		polarity: -1
+		alpha: 0.1623363623
+	68: 
+		feature index: 310129
+		error: 0.4225514789
+		threshold: -1.683627289
+		polarity: 1
+		alpha: 0.1561540072
+	69: 
+		feature index: 180659
+		error: 0.421791682
+		threshold: -1.491637257
+		polarity: 1
+		alpha: 0.157711334
+	70: 
+		feature index: 153449
+		error: 0.4211431667
+		threshold: 4.413457353
+		polarity: -1
+		alpha: 0.159041171
+	71: 
+		feature index: 113194
+		error: 0.4193379468
+		threshold: -1.305600341
+		polarity: -1
+		alpha: 0.1627458866
+	72: 
+		feature index: 149862
+		error: 0.4205454558
+		threshold: -0.6979655673
+		polarity: -1
+		alpha: 0.1602673235
+	73: 
+		feature index: 155285
+		error: 0.4190278805
+		threshold: -3.773630532
+		polarity: -1
+		alpha: 0.1633826552
+	74: 
+		feature index: 3172
+		error: 0.4187381856
+		threshold: -0.6205479273
+		polarity: 1
+		alpha: 0.1639777066
+	75: 
+		feature index: 318543
+		error: 0.4202012651
+		threshold: 0.9901596668
+		polarity: -1
+		alpha: 0.1609736178
+	76: 
+		feature index: 111897
+		error: 0.4202979541
+		threshold: -2.302569053
+		polarity: -1
+		alpha: 0.1607751917
+	77: 
+		feature index: 5481
+		error: 0.4210916653
+		threshold: 0.7050883748
+		polarity: -1
+		alpha: 0.1591468032
+	78: 
+		feature index: 150402
+		error: 0.4115280885
+		threshold: 0.8480856057
+		polarity: 1
+		alpha: 0.17882596
+	79: 
+		feature index: 202329
+		error: 0.42089014
+		threshold: 1.794472482
+		polarity: -1
+		alpha: 0.1595601754
+	80: 
+		feature index: 147916
+		error: 0.4186120368
+		threshold: 0.6299932744
+		polarity: 1
+		alpha: 0.1642368602
+	81: 
+		feature index: 77656
+		error: 0.4139518376
+		threshold: -1.054976796
+		polarity: 1
+		alpha: 0.173826171
+	82: 
+		feature index: 72432
+		error: 0.4138849141
+		threshold: -3.125745439
+		polarity: -1
+		alpha: 0.1739641064
+	83: 
+		feature index: 5481
+		error: 0.4201315487
+		threshold: 0.8055153506
+		polarity: -1
+		alpha: 0.1611166982
+	84: 
+		feature index: 114835
+		error: 0.4210381105
+		threshold: 57.51181262
+		polarity: 1
+		alpha: 0.1592566504
+	85: 
+		feature index: 161696
+		error: 0.4186317683
+		threshold: -1.770129495
+		polarity: -1
+		alpha: 0.1641963233
+
+Layer: 17
+	count of the previous-classifier: 186123
+	number of Classifier: 85
+	FALSE_POSITIVE_RATE: 0.816
+	DETECTION_RATE: 0.998
+	bias: 0
+	1: 
+		feature index: 75643
+		error: 0.305132513
+		threshold: 2.608133894
+		polarity: 1
+		alpha: 0.411487505
+	2: 
+		feature index: 162588
+		error: 0.3442055814
+		threshold: -30.22602602
+		polarity: -1
+		alpha: 0.3223041272
+	3: 
+		feature index: 109940
+		error: 0.3566270985
+		threshold: -2.900725993
+		polarity: -1
+		alpha: 0.2950169012
+	4: 
+		feature index: 352257
+		error: 0.3705443257
+		threshold: 1.786878707
+		polarity: 1
+		alpha: 0.2649411808
+	5: 
+		feature index: 205834
+		error: 0.3861913908
+		threshold: 3.653475028
+		polarity: 1
+		alpha: 0.2316750452
+	6: 
+		feature index: 70848
+		error: 0.3856450777
+		threshold: 1.444784824
+		polarity: -1
+		alpha: 0.2328276758
+	7: 
+		feature index: 142651
+		error: 0.398051697
+		threshold: 3.196074227
+		polarity: 1
+		alpha: 0.2067948388
+	8: 
+		feature index: 181722
+		error: 0.3975784432
+		threshold: -0.8072785342
+		polarity: 1
+		alpha: 0.2077826023
+	9: 
+		feature index: 151137
+		error: 0.4000715083
+		threshold: 19.0559059
+		polarity: -1
+		alpha: 0.2025835829
+	10: 
+		feature index: 144922
+		error: 0.4054793446
+		threshold: -6.240046355
+		polarity: -1
+		alpha: 0.1913427628
+	11: 
+		feature index: 217670
+		error: 0.4056808677
+		threshold: 3.129299756
+		polarity: -1
+		alpha: 0.1909248122
+	12: 
+		feature index: 161143
+		error: 0.4006250578
+		threshold: -1.286428984
+		polarity: -1
+		alpha: 0.2014306887
+	13: 
+		feature index: 179985
+		error: 0.4074871031
+		threshold: -1.24659711
+		polarity: 1
+		alpha: 0.1871816782
+	14: 
+		feature index: 188593
+		error: 0.4105850588
+		threshold: -4.399544232
+		polarity: -1
+		alpha: 0.1807736523
+	15: 
+		feature index: 114024
+		error: 0.4103202884
+		threshold: 0.6670446245
+		polarity: -1
+		alpha: 0.1813207409
+	16: 
+		feature index: 70715
+		error: 0.4102194888
+		threshold: 5.95089865
+		polarity: 1
+		alpha: 0.1815290488
+	17: 
+		feature index: 150774
+		error: 0.4078839281
+		threshold: -16.78429023
+		polarity: 1
+		alpha: 0.1863600195
+	18: 
+		feature index: 123440
+		error: 0.4110492767
+		threshold: 41.87499617
+		polarity: 1
+		alpha: 0.1798147084
+	19: 
+		feature index: 113316
+		error: 0.4070784599
+		threshold: -0.6000537583
+		polarity: 1
+		alpha: 0.1880280686
+	20: 
+		feature index: 148276
+		error: 0.413230521
+		threshold: -0.6925085215
+		polarity: -1
+		alpha: 0.1753132164
+	21: 
+		feature index: 180562
+		error: 0.4135510422
+		threshold: 1.189651266
+		polarity: -1
+		alpha: 0.1746523447
+	22: 
+		feature index: 43195
+		error: 0.4149951926
+		threshold: -1.622601672
+		polarity: -1
+		alpha: 0.1716765644
+	23: 
+		feature index: 180658
+		error: 0.4168008091
+		threshold: 1.229259768
+		polarity: -1
+		alpha: 0.1679601808
+	24: 
+		feature index: 141732
+		error: 0.4153972695
+		threshold: -3.876530785
+		polarity: 1
+		alpha: 0.1708485925
+	25: 
+		feature index: 149256
+		error: 0.4153653977
+		threshold: -0.8022405681
+		polarity: -1
+		alpha: 0.1709142157
+	26: 
+		feature index: 202344
+		error: 0.4160059083
+		threshold: 1.47336571
+		polarity: -1
+		alpha: 0.1695957014
+	27: 
+		feature index: 153696
+		error: 0.4155686225
+		threshold: 0.6395111758
+		polarity: 1
+		alpha: 0.1704958065
+	28: 
+		feature index: 100419
+		error: 0.415642402
+		threshold: 13.83859211
+		polarity: 1
+		alpha: 0.1703439203
+	29: 
+		feature index: 318543
+		error: 0.4147039674
+		threshold: -1.63547615
+		polarity: 1
+		alpha: 0.172276412
+	30: 
+		feature index: 214574
+		error: 0.4167486871
+		threshold: 1.000734703
+		polarity: -1
+		alpha: 0.1680673953
+	31: 
+		feature index: 201390
+		error: 0.4183725378
+		threshold: 30.93977225
+		polarity: 1
+		alpha: 0.1647289345
+	32: 
+		feature index: 145155
+		error: 0.4196800304
+		threshold: -7.010070643
+		polarity: 1
+		alpha: 0.1620435173
+	33: 
+		feature index: 17308
+		error: 0.4221281248
+		threshold: -4.218207668
+		polarity: 1
+		alpha: 0.1570216468
+	34: 
+		feature index: 149076
+		error: 0.4193907606
+		threshold: -0.8254854299
+		polarity: -1
+		alpha: 0.1626374383
+	35: 
+		feature index: 122276
+		error: 0.4175992851
+		threshold: 22.5350402
+		polarity: 1
+		alpha: 0.1663182
+	36: 
+		feature index: 215216
+		error: 0.4165221578
+		threshold: -2.21967641
+		polarity: 1
+		alpha: 0.1685334085
+	37: 
+		feature index: 74190
+		error: 0.4204828594
+		threshold: -0.757405679
+		polarity: -1
+		alpha: 0.1603957622
+	38: 
+		feature index: 142656
+		error: 0.4206881798
+		threshold: 0.5687325614
+		polarity: -1
+		alpha: 0.1599744942
+	39: 
+		feature index: 107490
+		error: 0.4225243583
+		threshold: 3.080434231
+		polarity: 1
+		alpha: 0.1562095825
+	40: 
+		feature index: 218831
+		error: 0.4219796529
+		threshold: -1.333815399
+		polarity: 1
+		alpha: 0.1573259868
+	41: 
+		feature index: 162250
+		error: 0.4213350794
+		threshold: -1.6967786
+		polarity: -1
+		alpha: 0.1586475795
+	42: 
+		feature index: 305321
+		error: 0.4188305184
+		threshold: -22.95014693
+		polarity: 1
+		alpha: 0.1637880368
+	43: 
+		feature index: 2737
+		error: 0.4197009588
+		threshold: -0.3526062242
+		polarity: 1
+		alpha: 0.1620005521
+	44: 
+		feature index: 179892
+		error: 0.4229691384
+		threshold: 1.764692605
+		polarity: -1
+		alpha: 0.155298267
+	45: 
+		feature index: 203839
+		error: 0.4227256199
+		threshold: 0.9435383761
+		polarity: -1
+		alpha: 0.1557971831
+	46: 
+		feature index: 313238
+		error: 0.4236996156
+		threshold: 14.06468632
+		polarity: -1
+		alpha: 0.1538021375
+	47: 
+		feature index: 107485
+		error: 0.4173025729
+		threshold: -1.210779377
+		polarity: -1
+		alpha: 0.1669282528
+	48: 
+		feature index: 214322
+		error: 0.4213454281
+		threshold: -1.051271367
+		polarity: 1
+		alpha: 0.1586263567
+	49: 
+		feature index: 70812
+		error: 0.4203183919
+		threshold: -0.8356213756
+		polarity: 1
+		alpha: 0.1607332507
+	50: 
+		feature index: 149306
+		error: 0.423815189
+		threshold: 1.315370384
+		polarity: 1
+		alpha: 0.1535654883
+	51: 
+		feature index: 205329
+		error: 0.4218970958
+		threshold: -1.189679386
+		polarity: 1
+		alpha: 0.1574952261
+	52: 
+		feature index: 154266
+		error: 0.4203329592
+		threshold: -2.04288561
+		polarity: -1
+		alpha: 0.160703357
+	53: 
+		feature index: 180345
+		error: 0.4200648883
+		threshold: -0.9354147192
+		polarity: 1
+		alpha: 0.1612535127
+	54: 
+		feature index: 113640
+		error: 0.4236924334
+		threshold: -1.085877543
+		polarity: 1
+		alpha: 0.1538168444
+	55: 
+		feature index: 105092
+		error: 0.4239426091
+		threshold: 1.924520197
+		polarity: 1
+		alpha: 0.1533046013
+	56: 
+		feature index: 150557
+		error: 0.4246979503
+		threshold: -7.08330423
+		polarity: -1
+		alpha: 0.1517584979
+	57: 
+		feature index: 162327
+		error: 0.4220599004
+		threshold: -0.6088114536
+		polarity: -1
+		alpha: 0.1571614906
+	58: 
+		feature index: 217620
+		error: 0.4237120547
+		threshold: 2.233413359
+		polarity: -1
+		alpha: 0.1537766663
+	59: 
+		feature index: 91932
+		error: 0.4240376304
+		threshold: 1.780277031
+		polarity: 1
+		alpha: 0.1531100629
+	60: 
+		feature index: 106395
+		error: 0.4239688199
+		threshold: 0.4768419506
+		polarity: -1
+		alpha: 0.1532509383
+	61: 
+		feature index: 110940
+		error: 0.4258952389
+		threshold: 0.5344575749
+		polarity: 1
+		alpha: 0.1493092463
+	62: 
+		feature index: 316990
+		error: 0.424349997
+		threshold: -16.95325209
+		polarity: 1
+		alpha: 0.1524706315
+	63: 
+		feature index: 74422
+		error: 0.4250937103
+		threshold: 1.116835246
+		polarity: -1
+		alpha: 0.1509487068
+	64: 
+		feature index: 162048
+		error: 0.4229775656
+		threshold: -0.6017402778
+		polarity: -1
+		alpha: 0.1552810028
+	65: 
+		feature index: 41580
+		error: 0.4255477423
+		threshold: -0.2537641295
+		polarity: 1
+		alpha: 0.1500199235
+	66: 
+		feature index: 149772
+		error: 0.4258942531
+		threshold: -0.7039529453
+		polarity: -1
+		alpha: 0.149311262
+	67: 
+		feature index: 180562
+		error: 0.4260520459
+		threshold: 1.091249546
+		polarity: -1
+		alpha: 0.1489886038
+	68: 
+		feature index: 82300
+		error: 0.4261464957
+		threshold: 0.983042411
+		polarity: 1
+		alpha: 0.1487954854
+	69: 
+		feature index: 60465
+		error: 0.4256092617
+		threshold: -0.4590105158
+		polarity: -1
+		alpha: 0.1498940971
+	70: 
+		feature index: 216420
+		error: 0.4228888234
+		threshold: 2.726037083
+		polarity: -1
+		alpha: 0.1554628063
+	71: 
+		feature index: 2738
+		error: 0.4233990052
+		threshold: -0.4538179801
+		polarity: 1
+		alpha: 0.1544177506
+	72: 
+		feature index: 308609
+		error: 0.4254077159
+		threshold: -7.332183536
+		polarity: -1
+		alpha: 0.1503063387
+	73: 
+		feature index: 107500
+		error: 0.425105278
+		threshold: 3.900690694
+		polarity: 1
+		alpha: 0.1509250404
+	74: 
+		feature index: 308613
+		error: 0.4223452226
+		threshold: 3.326256508
+		polarity: 1
+		alpha: 0.1565766882
+	75: 
+		feature index: 214322
+		error: 0.4227304649
+		threshold: 0.6880675886
+		polarity: -1
+		alpha: 0.1557872561
+	76: 
+		feature index: 214574
+		error: 0.4235691972
+		threshold: -0.9790868007
+		polarity: 1
+		alpha: 0.1540692041
+	77: 
+		feature index: 108848
+		error: 0.4257187441
+		threshold: 2.926015543
+		polarity: 1
+		alpha: 0.149670183
+	78: 
+		feature index: 217930
+		error: 0.4241747565
+		threshold: 1.102559505
+		polarity: -1
+		alpha: 0.1528293429
+	79: 
+		feature index: 6746
+		error: 0.4250316202
+		threshold: -1.264520323
+		polarity: -1
+		alpha: 0.1510757406
+	80: 
+		feature index: 157099
+		error: 0.4228085544
+		threshold: 0.7730609984
+		polarity: -1
+		alpha: 0.1556272598
+	81: 
+		feature index: 211679
+		error: 0.4238016241
+		threshold: 1.487922513
+		polarity: -1
+		alpha: 0.1535932631
+	82: 
+		feature index: 199743
+		error: 0.4241627818
+		threshold: -6.081268505
+		polarity: -1
+		alpha: 0.1528538562
+	83: 
+		feature index: 160024
+		error: 0.4254441342
+		threshold: 0.6070243943
+		polarity: 1
+		alpha: 0.150231845
+	84: 
+		feature index: 197969
+		error: 0.4245745936
+		threshold: 1.095302034
+		polarity: -1
+		alpha: 0.1520109466
+	85: 
+		feature index: 114024
+		error: 0.4239046239
+		threshold: 0.8602638336
+		polarity: -1
+		alpha: 0.1533823721
+
